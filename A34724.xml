@@ -1,0 +1,546 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Narration of the grievous visitation and dreadfull desertion of Mr. Peacock, in his last sicknesse together with the sweet and gracious issue, in his comfortable restauration, to the joy of Gods salvation, before his most blessed end and heavenly death, Decemb. 4, 1611.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 70 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34724</idno>
+            <idno type="STC">Wing C65</idno>
+            <idno type="STC">ESTC R14609</idno>
+            <idno type="EEBO-CITATION">12004922</idno>
+            <idno type="OCLC">ocm 12004922</idno>
+            <idno type="VID">52289</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34724)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52289)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 85:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Narration of the grievous visitation and dreadfull desertion of Mr. Peacock, in his last sicknesse together with the sweet and gracious issue, in his comfortable restauration, to the joy of Gods salvation, before his most blessed end and heavenly death, Decemb. 4, 1611.</title>
+                  <author>I. C.</author>
+               </titleStmt>
+               <extent>[34], 104, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.H. for Robert Milbourn ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Epistle "To the Christian reader" signed: I.C.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peacock, Thomas, 1570 or 71-1611.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52289:1" rendition="simple:additions"/>
+            <pb facs="tcp:52289:1" rendition="simple:additions"/>
+            <p>A NARRATION OF THE GRIEVOVS VISITATION, <hi>AND</hi> DREADFVLL DESER<g ref="char:EOLhyphen"/>tion of M<hi rend="sup">r</hi>. PEACOCK, in his laſt ſickneſſe: Together with the ſweet and gracious iſſue, in his comfortable reſtauration, to the joy of Gods ſalvation, before his moſt bleſſed end, and heavenly death, Decemb. 4. 1611.</p>
+            <q>
+               <bibl>
+                  <hi>PSAL. 37.37.</hi>
+               </bibl>
+               <p>Marke the perfect man, and behold the upright, for the end of that man is peace.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>PSAL. 37.24.</hi>
+               </bibl>
+               <p>Though he fall, he ſhall not be utterly caſt downe; for the Lord up<g ref="char:EOLhyphen"/>heldeth him with his hand.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>PSAL. 71.20.</hi>
+               </bibl>
+               <p>Thou which haſt ſhewed me great, and ſore troubles, ſhalt quicken me againe: and ſhalt bring me up againe from the depths of the Earth.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>PSAL. 102.18.</hi>
+               </bibl>
+               <p>This ſhall be written for the generation to come, and the people which ſhall be created, ſhall praiſe the Lord.</p>
+            </q>
+            <p>LONDON, Printed by <hi>R.H.</hi> for <hi>Robert Milbourn,</hi> at the ſigne of the holy Lambe in Little Brittaine. 1641.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:52289:2"/>
+            <pb facs="tcp:52289:2"/>
+            <head>TO THE CHRISTIAN READER.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Hoſe foure leprous men at the gate of Samaria,</hi> 2 <hi>Kings</hi> 7.3. When they had eaten, and drunke, and carried away Silver and Gold, and Raiment, <hi>from out of the forſaken tents of the flying</hi> Syrians, <hi>and had hid the
+<pb facs="tcp:52289:3"/>ſame, their</hi> Conſcience <hi>eft<g ref="char:EOLhyphen"/>ſoone gave them the checke, for ſo engroſsing to their own uſe, and particular benefit, what the God of ISRAEL had in mercy intended, and by miracle provided for that whole City, and Kingdome,</hi> Ver.9. <hi>Then they ſaid one to another,</hi> WEE DOE NOT WELL: THIS DAY IS A DAY OF GOOD TIDINGS, AND WEE HOLD OUR PEACE. <hi>Even ſo this</hi> Nar<g ref="char:EOLhyphen"/>ration <hi>of M<hi rend="sup">r</hi>.</hi> PEACOCKS Viſitation, <hi>comming happi<g ref="char:EOLhyphen"/>ly to</hi> my <hi>hands, and I upon through-reading, and ſerious peruſall thereof, finding it to
+<pb facs="tcp:52289:3"/>ſet forth a moſt ſingular pre<g ref="char:EOLhyphen"/>ſident, and rare example of</hi> GODS <hi>correcting</hi> Iuſtice, <hi>in giving over this deare Saint, his faithfull ſervant, this</hi> MAN OF GOD (<hi>for ſo a late reverend</hi> Divine
+<note n="*" place="margin">M. Bol<g ref="char:EOLhyphen"/>ton In<g ref="char:EOLhyphen"/>ſtruct<g ref="char:punc">▪</g> for afflicted conſc. p. 84.</note> 
+               <hi>worthily enſtyleth</hi> him) <hi>to the buffettings of</hi> Satan, <hi>ter<g ref="char:EOLhyphen"/>rours of</hi> hell, <hi>conflicts of a ſelfe-accuſing Conſcience: and likewiſe to hold forth the tender</hi> mercies, <hi>and melting bowels of the</hi> LORDS <hi>Fa<g ref="char:EOLhyphen"/>therly compaſsion, in bring<g ref="char:EOLhyphen"/>ing him even to the ſuburbs of bell, the gates of death
+<note n="(a)" place="margin">Pſal. 9.13.</note>, ſeemingly yeelding him up into the pawes and jawes of
+<pb facs="tcp:52289:4"/>the devill himſelfe; and yet then, plucking</hi> him <hi>as a brand
+<note n="(b)" place="margin">Zech. 3.2.</note> out of the</hi> fire, <hi>re<g ref="char:EOLhyphen"/>comforting his dejected ſoul, binding up his broken ſpirit, pouring in a more pretious</hi> Balme <hi>than that of</hi>
+               <note n="(c)" place="margin">Ier. 8.22.</note> Gi<g ref="char:EOLhyphen"/>lead, <hi>into his wounded and bleeding</hi> conſcience; <hi>I ſay hereupon,</hi> my thoughts <hi>forthwith ſuggeſted</hi> this <hi>un<g ref="char:EOLhyphen"/>to me, that</hi> I SHOULD NOT DOE WELL <hi>to conceale any longer</hi> this <hi>Mirror of</hi> Gods Iuſtice <hi>and</hi> Mercy, <hi>being as well an</hi> Antidote <hi>againſt</hi> DESPAIRE, <hi>that dangerous whirle poole and gulfe into which</hi> FRANCIS SPIRA
+<pb facs="tcp:52289:4"/>
+               <hi>ſeemed irrecoverably to fall, to ſinke, and periſh in, on the</hi> left <hi>hand; and alſo to bee a curbe of reſtraint unto, a warning piece, and counter-poyſon againſt</hi> PRESUMPTI<g ref="char:EOLhyphen"/>ON, <hi>on the</hi> right <hi>hand; the Rocke that ſo many millions of men everlaſtingly miſcar<g ref="char:EOLhyphen"/>ry, and ſplit themſelves up<g ref="char:EOLhyphen"/>on: (for as the women ſang of</hi> Saul <hi>and</hi> David,
+<note place="margin">1 Sam. 18.7.</note> 
+               <hi>that</hi> Saul <hi>had ſlaine his thouſands, and</hi> David <hi>his ten thou<g ref="char:EOLhyphen"/>ſands: ſo where ſome few upon an awakened and rou<g ref="char:EOLhyphen"/>zed conſcience, die deſpaire<g ref="char:EOLhyphen"/>ingly:) infinite is the num<g ref="char:EOLhyphen"/>ber of preſumptuous ſinners,
+<pb facs="tcp:52289:5"/>who like the</hi> Fiſh <hi>in Jordan, friske and play, and take their paſtime in the ſweet ſil<g ref="char:EOLhyphen"/>ver-ſtreames of this lifes comforts, till they be una<g ref="char:EOLhyphen"/>wares ſuddenly engulfed in<g ref="char:EOLhyphen"/>to the</hi> Dead Sea, <hi>arreſted by grimme</hi> death, <hi>Gods Serje<g ref="char:EOLhyphen"/>ant; and haled by devils un<g ref="char:EOLhyphen"/>to the diſobedient ſoules
+<note n="(d)" place="margin">1 Pet. 3.19, 20.</note> now in priſon,</hi> reſerved in chaines under darkneſſe,
+<note n="(e)" place="margin">Iude 6</note> unto the judgement of the great day, <hi>without baile, or mainpriſe.</hi>
+            </p>
+            <p>
+               <hi>Doubtleſſe whoſoever is</hi> wiſe, <hi>will ſeriouſly and ſea<g ref="char:EOLhyphen"/>ſonably conſider of</hi> this
+<note n="(f)" place="margin">Pſal. 107.43.</note>, <hi>and other like remarkable ad<g ref="char:EOLhyphen"/>miniſtrations
+<pb facs="tcp:52289:5"/>of divine</hi> pro<g ref="char:EOLhyphen"/>vidence, <hi>and being carefull of his owne ſtanding in the ſtate of grace, will</hi> worke out his owne
+<note n="(g)" place="margin">Phil. 2.12.</note> ſalvation with feare and trembling. <hi>This ſurely is the</hi> uſe <hi>God would have</hi> men <hi>to make hereof: not to be a nine-daies wonder, or a naked ſubject of fruitleſſe diſcourſe, but to</hi> learne righteouſ<g ref="char:EOLhyphen"/>neſſe
+<note n="(h)" place="margin">Iſa. 26.9.</note> 
+               <hi>thereby: for if</hi> theſe <hi>things were done in the</hi> greene <hi>tree
+<note n="(i)" place="margin">Luk. 23 31.</note>, what will become of the</hi> drie? <hi>And</hi> if the righteous <hi>ſcarcely bee</hi> ſaved
+<note n="(k)" place="margin">1 Pet. 4.18.</note>, <hi>where ſhall the</hi> ungodly <hi>and ſinner ap<g ref="char:EOLhyphen"/>peare?</hi>
+            </p>
+            <pb facs="tcp:52289:6"/>
+            <p>It is a fearefull thing
+<note n="(l)" place="margin">Heb. 10.31.</note> 
+               <hi>(ſaith the Apoſtle)</hi> to fall into the hands of the li<g ref="char:EOLhyphen"/>ving God. <hi>That
+<note n="(m)" place="margin">Ioh. 1.29.</note> Lamb of God,</hi> our bleſſed Savi<g ref="char:EOLhyphen"/>our <hi>himſelfe, when</hi> he <hi>ſtood in</hi> our <hi>ſtead upon the</hi> croſſe, <hi>was ready even to</hi> ſinke <hi>un<g ref="char:EOLhyphen"/>der that unſupportable weight and</hi> burthen
+<note n="(n)" place="margin">Pſal. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8.4.</note> 
+               <hi>of our</hi> ſinnes, <hi>and the feeling apprehenſion of his</hi> Fathers <hi>fierce wrath for the ſame, and cries out in that perplexed agonie and dereliction,</hi>
+               <note n="(o)" place="margin">Mat. 27.46.</note> My God, my God, why haſt thou forſaken mee? <hi>O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the terrours, and intolerableneſſe of a</hi> Con<g ref="char:EOLhyphen"/>ſcience
+<pb facs="tcp:52289:6"/>wounded <hi>by ſinne!</hi> The ſpirit of a man may ſuſtaine
+<note n="(p)" place="margin">Prov. 18.14.</note> his infirmity, but a wounded ſpirit who can beare? <q>
+                  <hi>Not only the deſperate cries of</hi> Cain, Iudas, Latomus,
+<note place="margin">Bolton. p. 83.</note> 
+                  <hi>and ma<g ref="char:EOLhyphen"/>ny other ſuch miſerable men of forlorne hope, but alſo the wofull complaints even of</hi> Gods <hi>owne deare</hi> children, <hi>diſcover the un<g ref="char:EOLhyphen"/>ſupportable horrours of a galled</hi> Conſcience, <hi>yelling and crying out with the ſtinging ſenſe of the</hi> ar<g ref="char:EOLhyphen"/>rowes <hi>of ſinne</hi>
+                  <note n="(q)" place="margin">Iob <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.4.</note>, the poyſon whereof drinks up mens ſpirits. <hi>Thus</hi>
+                  <pb facs="tcp:52289:7"/>Hezekiah, <hi>Iſay</hi> 38.13. <hi>Thus</hi> Iob, <hi>Iob</hi> 13.26. <hi>Iob</hi> 6.4.8. <hi>Iob</hi> 7.14, 15. <hi>Thus</hi> David, <hi>Pſal.</hi> 32.3, 4. <hi>And into the like depth of ſpiri<g ref="char:EOLhyphen"/>tuall diſtreſſe</hi> three <hi>wor<g ref="char:EOLhyphen"/>thy ſervants of</hi> God <hi>in theſe later times, were plun<g ref="char:EOLhyphen"/>ged and preſſed downe un<g ref="char:EOLhyphen"/>der the ſenſe of</hi> Gods <hi>an<g ref="char:EOLhyphen"/>ger for ſinne.</hi>
+               </q>
+            </p>
+            <p n="1">
+               <q>1. <hi>Bleſſed Miſtris</hi> Bre<g ref="char:EOLhyphen"/>tergh <hi>upon her laſt bed was horribly hemmed in with the ſorrowes of</hi> death,
+<note place="margin">See the diſcourſe of the holy life, and Chriſtian death of Miſtris <hi>Katherine Bretergh.</hi>
+                  </note> 
+                  <hi>the very pains of</hi> hell <hi>laid hold on her ſoule; ſhe ſaid her</hi> ſinnes <hi>had made her a prey to</hi> Satan, <hi>ſhe cryed out</hi>
+                  <pb facs="tcp:52289:7"/>Woe, woe, woe, A weake, a wofull, a wret<g ref="char:EOLhyphen"/>ched, a forſaken wo<g ref="char:EOLhyphen"/>man; <hi>with teares conti<g ref="char:EOLhyphen"/>nually trickling from her eyes.</hi>
+               </q>
+            </p>
+            <p n="2">
+               <q>2 <hi>Maſter</hi> Peacock, <hi>that man of</hi> God, <hi>in that his</hi> dreadfull viſitation, <hi>and deſertion, recounting ſome ſmaller ſinnes, burſt out into theſe words;</hi> And for theſe <hi>(ſaith he)</hi> I feele now an hell in my con<g ref="char:EOLhyphen"/>ſcience.</q>
+            </p>
+            <p>
+               <hi>But</hi> thou <hi>ſhalt reade more concerning him in the following</hi> Narration.</p>
+            <p n="3">
+               <q>3. <hi>What grievous pangs
+<pb facs="tcp:52289:8"/>and ſorrowfull torments, what boiling heats of the fire of hell that bleſſed Saint of God</hi> Iohn Glover <hi>felt inwardly in his ſpirit</hi> (<hi>ſaith Maſter</hi> Foxe) <hi>no ſpeech outwardly is able to ex<g ref="char:EOLhyphen"/>preſſe.</hi>
+                  <note place="margin">Acts Mon. in the ſto<g ref="char:EOLhyphen"/>ry of Ma<g ref="char:EOLhyphen"/>ſter <hi>Robert Glover.</hi> pag. 1557.</note> Being yong <hi>(ſaith he)</hi> I remember I was once or twice with him, <hi>whom partly by</hi> his <hi>talke I perceived, and part<g ref="char:EOLhyphen"/>ly by</hi> mine <hi>owne eyes ſaw, to be ſo worne, and conſu<g ref="char:EOLhyphen"/>med by the ſpace of five yeares, that neither almoſt any brooking of meat, qui<g ref="char:EOLhyphen"/>etneſſe of ſleepe, pleaſure of life, yea, and almoſt no
+<pb facs="tcp:52289:8"/>kinde of ſenſes was left in</hi> him: <hi>upon apprehenſion of ſome</hi> back-ſliding, <hi>hee was ſo perplexed, that if he had been in the deepeſt pit of hell, he could almoſt have deſpaired no more of</hi> his <hi>ſalvation.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>But yet every one of theſe</hi> three <hi>laſt named was at length bleſſedly recovered, and did riſe moſt gloriouſly out of theſe deſperate con<g ref="char:EOLhyphen"/>flicts, and extreameſt ſpiri<g ref="char:EOLhyphen"/>tuall miſery before their end.</hi> 
+               <q>
+                  <hi>Heare part of Miſtris</hi> Bre<g ref="char:EOLhyphen"/>terghs <hi>triumphant ſongs after the returne of her</hi> Well-beloved.
+<note place="margin">M. Bolton. ibid. pag. 85, 86.</note> O Lord
+<pb facs="tcp:52289:9"/>Ieſu doſt thou pray for me? O bleſſed and ſweet Saviour, how wonder<g ref="char:EOLhyphen"/>full, how wonderfull, how wonderfull are thy mercies! Lord I feele thy mercy, and I am aſ<g ref="char:EOLhyphen"/>ſured of thy love, and ſo certaine am I thereof, as thou art the God of truth, even ſo ſure doe I know my ſelfe to bee thine, <hi>O Lord my God,</hi> and this my ſoul know<g ref="char:EOLhyphen"/>eth right well, &amp;c.</q>
+            </p>
+            <p n="2">2. <hi>This following</hi> Nar<g ref="char:EOLhyphen"/>ration <hi>witneſſeth with what ſweet tranquillity of minde Maſter</hi> Peacock <hi>recounted</hi>
+               <pb facs="tcp:52289:9"/>Gods <hi>love, welcommed</hi> his <hi>preſence, when the ſtorme was once over.</hi>
+            </p>
+            <p n="3">
+               <q>3. <hi>Master</hi> Glover (<hi>ſaith M.</hi> Foxe, ibid.) though he ſuffered many yeares ſo ſharpe temptations, and ſtrong buffettings of Satan, <hi>yet the</hi> Lord <hi>who graciouſly preſerved</hi> him <hi>all the while, not only at laſt did rid him out of all diſcomfort, but alſo framed him thereby, to ſuch mortification of life, as the like lightly hath not beene ſeene: in ſuch ſort, as</hi> he became like one placed in heaven already, and
+<pb facs="tcp:52289:10"/>dead in this world, both in word and meditati<g ref="char:EOLhyphen"/>on, led a life altogether celeſtiall, abhorring in his minde all profane doings.</q>
+            </p>
+            <p>
+               <hi>No arme of fleſh, or art of</hi> man <hi>can poſsibly heale or helpe in theſe extreameſt hor<g ref="char:EOLhyphen"/>rours. Heaven and earth, men and angels, friends and phyſicke, gold and ſilver, nay, the utmoſt poſsibility of the whole Creation</hi> muſt let this alone
+<note n="(r)" place="margin">Pſal. 49.7, 8.</note> for ever. <hi>An Almighty hand muſt take this in hand, or elſe never any cure, or recovery in this world, or that to come.</hi>
+            </p>
+            <pb facs="tcp:52289:10"/>
+            <p>
+               <hi>Oh therefore let us take the ſtinges out of our</hi> ſinnes <hi>betimes, and prevent the in<g ref="char:EOLhyphen"/>cureableneſſe of their horri<g ref="char:EOLhyphen"/>ble wound, by an humble, ſincere and univerſall turn<g ref="char:EOLhyphen"/>ing to the</hi> Lord, <hi>while it is called</hi> To Day
+<note n="(ſ)" place="margin">Heb. 3.15.</note>. <hi>For aſſuredly</hi> all <hi>the</hi> ſinnes <hi>wee have committed in thought, word, or deed, at any time, in any place, with any company,
+<note place="margin">M. Bolton ibid.</note> or to which we have been any waies acceſſary, will</hi> one day <hi>be ſtings, and ſcorpions to our naked ſoules: they all are upon record before that high and everlaſting</hi> Iudge, <hi>written by the hand of divine
+<pb facs="tcp:52289:11"/>Iuſtice in the booke of our</hi> conſcience, <hi>with a pen of Iron; and there they lie like ſo many ſleeping</hi> Lions, <hi>ga<g ref="char:EOLhyphen"/>thering much enraged and deſperate poiſon; that when<g ref="char:EOLhyphen"/>ſoever our</hi> hearts <hi>are tho<g ref="char:EOLhyphen"/>rowly rouzed,
+<note place="margin">M. Bolton, pag. 89.</note> and finally awaked, they will flie in our faces, tormenting us moſt ragingly, and tearing our wofull ſoules in pieces ever<g ref="char:EOLhyphen"/>laſtingly, when there is none to deliver</hi>
+               <note n="(t)" place="margin">Pſal. 50.22.</note>
+            </p>
+            <p>
+               <hi>Therefore let</hi> us <hi>conſider often in our ſaddeſt thoughts.</hi>
+               <note place="margin">
+                  <hi>Conſid.</hi> 1.</note> 1. Why <hi>we came</hi> into the world, <hi>were faſhioned in the wombe, and drawne out
+<pb facs="tcp:52289:11"/>thence.</hi> 2. Why <hi>we were made men and women, in the</hi> image of God, <hi>reaſonable creatures, and not toads or ſerpents.</hi> 3. Why <hi>we were borne and bred up</hi> Chriſti<g ref="char:EOLhyphen"/>ans, <hi>in the Sun-ſhine of the</hi> Goſpel, <hi>the glorious light of grace; and not made</hi> Pa<g ref="char:EOLhyphen"/>gans, Turkes, Infidels, <hi>or borne in the helliſh darkneſſe of</hi> Popiſh <hi>Idolatry; but in a</hi> Land <hi>of righteouſneſſe,</hi> Where the eyes of the Lord, and the Sunne of righteouſneſſe are upon us from the beginning of the yeare, to the end of the yeare
+<note n="(u)" place="margin">Deut. 11.12.</note>. <hi>Doubtleſſe
+<pb facs="tcp:52289:12"/>this is an unſpeakable</hi> mer<g ref="char:EOLhyphen"/>cy, <hi>and was not therefore vouchſafed unto</hi> us, <hi>that we ſhould only</hi> live to our ſelves
+<note n="(w)" place="margin">2 Cor. 5.15.</note>, <hi>carnally and ſenſually, to eate, and drink, and get gaine; but for more heavenly ends. And there<g ref="char:EOLhyphen"/>fore as ever we hope with comfort to looke the</hi> Lord Ieſus <hi>in the face at that great day, let us minde the things that concerne our everlaſting</hi> peace
+<note n="(x)" place="margin">Luke 19.42.</note>, <hi>purſue</hi> the one
+<note n="(y)" place="margin">Luke 10.42.</note> thing <hi>that is neceſſary, and</hi> lay up <hi>in ſtore for our ſelves</hi> a good foundati<g ref="char:EOLhyphen"/>on againſt the time to come
+<note n="(z)" place="margin">1 Tim. 6.19.</note> that we may lay
+<pb facs="tcp:52289:12"/>hold on eternall life.</p>
+            <p>
+               <hi>Conſider that</hi> our dayes are but few
+<note n="(a)" place="margin">Iob 10 20.</note>, <hi>we have but a very little time to live</hi> here, <hi>and upon this</hi> ſpan-long <hi>life depends eternitie; let us therefore</hi> walke with God
+<note n="(b)" place="margin">Gen. 6 9.</note>, <hi>and behave our ſelves</hi> here <hi>that we may hold out</hi> in the
+<note n="(c)" place="margin">Prov. 16.4.</note> evill day. <hi>It is another place</hi> we <hi>muſt all live in for ever:</hi> The king<g ref="char:EOLhyphen"/>dome of heaven ſuffereth violence
+<note n="(d)" place="margin">Matt. 11.12.</note>, and the vio<g ref="char:EOLhyphen"/>lent take it by force: Ma<g ref="char:EOLhyphen"/>ny ſhall ſeeke to enter in,
+<note n="(e)" place="margin">Luke 13.24.</note> and ſhall not be able. <hi>What comfort will it one day be to have wallowed in all
+<pb facs="tcp:52289:13"/>ſenſuall pleaſures, or lien ſoaking in luxurie and laſci<g ref="char:EOLhyphen"/>viouſneſſe, when we muſt ere long lie on our deaths-bed, like wilde</hi>
+               <note n="(f)" place="margin">Iſay 51.20.</note> 
+               <hi>Buls in a net.</hi> It is good to make hay while the Sunne ſhines, <hi>to pray, heare, reade, and re<g ref="char:EOLhyphen"/>pent betimes, to ſtore our ſelves with</hi> Oyle
+<note n="(g)" place="margin">Mat 25 10.</note> 
+               <hi>before the</hi> Bride-groome <hi>comes, leſt we knock</hi> too late, <hi>when the doore is ſhut: As wee ſpend</hi> this <hi>life, ſo will it bee with us in the life to come; therefore live</hi> well <hi>here, that it may</hi> be well <hi>with us at our</hi> latter end
+<note n="(h)" place="margin">Lam. 1.9.</note>.</p>
+            <p n="3">3. <hi>All the</hi> riches,
+<note place="margin">
+                  <hi>Conſid.</hi> 3.</note> honors,
+<pb facs="tcp:52289:13"/>
+               <hi>and</hi> pleaſures <hi>under the</hi> Sun <hi>will not availe us</hi>
+               <note n="(i)" place="margin">Prov. 11.4.</note> in the day of wrath. <hi>It will then</hi> no <hi>whit</hi> profit <hi>us,</hi> to have gained the whole
+<note n="(k)" place="margin">Matt. 16.26.</note> world, if we loſe our owne ſoules; <hi>to have en<g ref="char:EOLhyphen"/>joyed the</hi> pleaſures of ſin
+<note n="(l)" place="margin">Heb. 11.25.</note> for a ſeaſon, <hi>and to lie weeping, and wailing, and gnaſhing of teeth in hell for ever.</hi> O that men were wiſe and would conſider this
+<note n="(m)" place="margin">Deut. 32.29.</note>, and that they would remember their latter end!</p>
+            <p>
+               <hi>The cleareſt</hi> Sun <hi>in the Hemiſpheare, that ſhines moſt gloriouſly in the brighteſt</hi>
+               <pb facs="tcp:52289:14"/>ſummers day, <hi>certainely may (and who ſees it not of<g ref="char:EOLhyphen"/>tentimes) overcaſt, and muf<g ref="char:EOLhyphen"/>fled up in dark clouds ere it be night? Who can ſay,</hi> the weather ſhall not
+<note n="(n)" place="margin">Luke 12.56.</note> change <hi>with him? May not</hi> our ſun goe downe
+<note n="(o)" place="margin">Ier. 15.9. Amos 8.9.</note> at noone, <hi>and ſet ſadly under a cloud? Nay, we muſt look for</hi> changes and chances in this mortall life (<hi>and therefore daily had need to pray</hi> as it is in our Litur<g ref="char:EOLhyphen"/>gie) <hi>and waite all the daies of</hi> our appointed time
+<note n="(p)" place="margin">Iob 14.14.</note>, untill our <hi>laſt ſolemne</hi> change ſhall come. <hi>Our ſoules like a</hi> Ship <hi>at ſea, un<g ref="char:EOLhyphen"/>derfull
+<pb facs="tcp:52289:14"/>ſaile, are</hi> all <hi>bound for the</hi> faire havens
+<note n="(q)" place="margin">Acts 27.8.</note> 
+               <hi>of the</hi> fortunate Iſlands, <hi>I meane,</hi> everlaſting bleſſed<g ref="char:EOLhyphen"/>neſſe; <hi>who knowes but that</hi> he <hi>may be ſore toſt, and rent, and ſhattered, not able</hi> to beare up
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Acts 27.15</note> 
+               <hi>againſt the an<g ref="char:EOLhyphen"/>gry ſurges, yea, and may</hi> hardly <hi>eſcape ſafe to that land of righteouſneſſe
+<note n="(r)" place="margin">Pſal. 143.10.</note>. And thither alſo muſt we ar<g ref="char:EOLhyphen"/>rive through the</hi> ſtreights <hi>of</hi> death; <hi>and therefore that we may looke that</hi> King of terrours
+<note n="(ſ)" place="margin">Iob 18 14.</note> 
+               <hi>undauntedly in the</hi> face, <hi>it ſtands us all in hand to</hi> watch. <hi>Here wee may ſee the</hi> Lords <hi>champion,</hi>
+               <pb facs="tcp:52289:15"/>this <hi>bleſſed ſervant of</hi> God <hi>in the liſts,</hi> reſiſting
+<note n="(t)" place="margin">Heb. 12.4.</note> un<g ref="char:EOLhyphen"/>to blood, <hi>combating and en<g ref="char:EOLhyphen"/>countering with moſt dread<g ref="char:EOLhyphen"/>full temptations:</hi> whoſe <hi>turne may be the</hi> next, <hi>wee know not. God may call</hi> any <hi>of us out unto the duell, and turne</hi> Satan <hi>looſe upon us, hand to hand: we had need therefore before hand learne the uſe of all our ſpirituall ar<g ref="char:EOLhyphen"/>mour
+<note n="(u)" place="margin">Eph. 6.</note>, as</hi> Saul <hi>taught</hi> Iu<g ref="char:EOLhyphen"/>dah the uſe of the bowe
+<note n="*" place="margin">2 Sam. 1.18.</note>. <hi>The ſtrength we muſt ſtand, and withſtand by, is not our owne; not from nature, no nor grace it ſelfe; it is</hi> God <hi>that muſt</hi> teach
+<note n="(w)" place="margin">Pſal. 144.1.</note> our fin<g ref="char:EOLhyphen"/>gers
+<pb facs="tcp:52289:15"/>to fight; <hi>he muſt cover our head in the</hi> day of bat<g ref="char:EOLhyphen"/>tell
+<note n="(x)" place="margin">Pſal. 140.7.</note> 
+               <hi>We are here all</hi> militant, <hi>and muſt bid bat<g ref="char:EOLhyphen"/>tell, and abide it, or elſe no victorie.</hi> Satan <hi>reſerves his moſt dangerous ambuſh<g ref="char:EOLhyphen"/>ments, and deſperate aſſaults to the</hi> laſt: <hi>Here thou maist perceive,</hi> how, where, <hi>and</hi> when <hi>he uſeth moſt mortally to ſtrike, and ſo ſtand upon thy guard. To keep thy</hi> con<g ref="char:EOLhyphen"/>ſcience <hi>ſafe, ſhot-free, and unwounded, is the</hi> maine-ſervice. <hi>Herein I exerciſe my ſelf</hi>
+               <note n="(z)" place="margin">Acts 24.16.</note> to have alwaies a conſcience void of of<g ref="char:EOLhyphen"/>fence, toward God, and
+<pb facs="tcp:52289:16"/>toward men. <hi>If that</hi> bird <hi>of the boſome ſing ſweetly in our breſt, it makes no matter, what dirdams and ſtirres be from the world. Therefore make much of</hi> conſcience, <hi>it muſt ſtand us in ſtead, and be our beſt friend another day. Walke in the light thereof: It is a bleſſed thing to keep it tender. But alas! how doe men muzzle, ſtifle, and choke it up? how doe they noiſe and drum in its eares,</hi> that the cries thereof may not be heard,
+<note place="margin">2 King. 23.10. Ier. 19.2.</note> 
+               <hi>as the Idolatrous Jewes in the burning of their children to their Idols?</hi>
+            </p>
+            <pb facs="tcp:52289:16"/>
+            <p>O Brethren (<hi>ſaith</hi> Fran<g ref="char:EOLhyphen"/>cis Spira) take a diligent heed to your life,
+<note place="margin">Relation of <hi>Francis Spira,</hi> pag. 112.</note> make more account of the gifts of Gods Spirit than I have done, learne to beware my miſery, thinke not you are aſſured Chriſtians becauſe you underſtand ſomething of the Goſpell; take heed you grow not ſecure on that ground; be conſtant and immoveable in the maintaining of your profeſsion, confeſſe even untill death, if you be called thereto: he that lo<g ref="char:EOLhyphen"/>veth father, mother, bro<g ref="char:EOLhyphen"/>thers, ſiſters, ſons,
+<note place="margin">Luk. 14.26</note> daugh<g ref="char:EOLhyphen"/>ters,
+<pb facs="tcp:52289:17"/>kindred, houſes, lands more than Chriſt, is not worthy of him.
+<note place="margin">pag. 104, 105.</note> 
+               <hi>And in another place,</hi> Take heed to your ſelves, it is no light or eaſie matter to be a Chriſtian; it is not bap<g ref="char:EOLhyphen"/>tiſme, or reading of the Scriptures, or boaſting of faith in Chriſt (though even theſe are good) that can prove one to be an ab<g ref="char:EOLhyphen"/>ſolute Chriſtian: There muſt be a conformity in life; a Chriſtian muſt be ſtrong, unconquerable, not carrying an obſcure profeſsion, but reſolute; expreſsing the image of
+<pb facs="tcp:52289:17"/>Chriſt, and holding out againſt all oppoſition to the laſt breath: he muſt give all diligence by righ<g ref="char:EOLhyphen"/>teouſneſſe, and holineſſe, to make his calling and election ſure: Many there are that ſnatch at the pro<g ref="char:EOLhyphen"/>miſes in the Goſpel, as if they undoubtedly did be<g ref="char:EOLhyphen"/>long to them, and yet they remain ſluggiſh, and care<g ref="char:EOLhyphen"/>leſſe, and being flattered by the things of this pre<g ref="char:EOLhyphen"/>ſent world, they paſſe their courſe in quietneſſe and ſecurity, as if they were the only happy men; whom neverthe<g ref="char:EOLhyphen"/>leſſe
+<pb facs="tcp:52289:18"/>the Lord in his pro<g ref="char:EOLhyphen"/>vidence hath ordained to eternal wrath; as you may ſee in S. <hi>Lukes</hi> rich man,
+<note place="margin">Luke 16.</note> thus it was with me, ther<g ref="char:EOLhyphen"/>fore take heed. Thus he. <hi>And that I may keep thee no longer from this ſo fruitfull a Treatiſe; Reade adviſedly this following</hi> Narration, <hi>and thou ſhalt reape much good thereby. To which end it is now publiſhed and pre<g ref="char:EOLhyphen"/>ſented to thy view, by thy wel-wiſher in the Lord,</hi>
+            </p>
+            <closer>
+               <signed>I. C.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:52289:18"/>
+            <head>MASTER PEACOCKS Viſitation.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Aſter <hi>Peacock</hi> the ſervant of <hi>God,</hi> in the beginning of his <hi>Viſitation,</hi> for the ſpace of two weekes and foure daies, was full of moſt heavenly conſolations, ſhewing by ſweet medi<g ref="char:EOLhyphen"/>tations,
+<pb n="2" facs="tcp:52289:19"/>and gracious eja<g ref="char:EOLhyphen"/>culations, the entertain<g ref="char:EOLhyphen"/>ment he found with his <hi>God</hi> in his ſickneſſe, with whom <hi>he</hi> ſo much deſired to be acquainted in his health.</p>
+            <p>
+               <hi>We are</hi> (ſaith one com<g ref="char:EOLhyphen"/>ming to viſit him) <hi>miſera<g ref="char:EOLhyphen"/>ble comforters.</hi>
+               <note place="margin">Iob 16.2.</note> Nay (ſaith he) you are good, for this is ever the priviledge of Gods children, that their very <hi>preſence</hi> affords com<g ref="char:EOLhyphen"/>fort.</p>
+            <p>Sometimes hee craved pardon for his actions, and for the circumſtances of them, badly obſerved.</p>
+            <pb n="3" facs="tcp:52289:19"/>
+            <p>Otherwhile, he deſired to have ſome matter given him to meditate on; Fi<g ref="char:EOLhyphen"/>nally, hee ſaid his hope was firmly ſetled on the rocke Chriſt <hi>Jeſus;</hi> he ho<g ref="char:EOLhyphen"/>ped that the <hi>Lord</hi> would give him a place, though it were in the loweſt roome of his Saints, and he thanked <hi>God</hi> that hee had no trouble of <hi>Con<g ref="char:EOLhyphen"/>ſcience.</hi>
+            </p>
+            <p>The <hi>Lord</hi> did not ſuf<g ref="char:EOLhyphen"/>fer Satan to vexe him, in<g ref="char:EOLhyphen"/>ſomuch, that <hi>one</hi> ſeeing his great comfort, feared leſt hee would be overta<g ref="char:EOLhyphen"/>ken with ſorrow before his death.</p>
+            <pb n="4" facs="tcp:52289:20"/>
+            <p>He much rejoyced that the <hi>Lord</hi> had ſo diſpoſed of him, that he had ſeene his friends in the Coun<g ref="char:EOLhyphen"/>trey.</p>
+            <p>Here firſt was his yeeld<g ref="char:EOLhyphen"/>ing unto <hi>death</hi> ſuſpected, and his hoped recovery doubted.</p>
+            <p>
+               <hi>I thought</hi> (ſaid he) <hi>I had been in a good eſtate, but I ſee it now far otherwiſe,</hi> for theſe things my <hi>Conſcience</hi> laies againſt me.</p>
+            <p n="1">1. <hi>I brought up my Schol<g ref="char:EOLhyphen"/>lers in gluttony.</hi> This ſome endeavoured to pull out, by putting him in minde of, 1. The preventing of
+<pb n="5" facs="tcp:52289:20"/>many inconveniences. 2. His well knowne mo<g ref="char:EOLhyphen"/>deration. 3. The great care hee tooke for good conference when they were at Table with him. —<hi>But</hi> (ſaith he) <hi>while I was talking, they did undoe themſelves; and further I did unadviſedly expound places of Scripture at the ta<g ref="char:EOLhyphen"/>ble many times; and for theſe now I feele a hell in my conſcience.</hi> 4. Againe, <hi>I have procured my own death by eating and drinking often like a beaſt, when I was joy<g ref="char:EOLhyphen"/>ſting up and downe to my friends in the countrey: and
+<pb n="6" facs="tcp:52289:21"/>now I ſee before my face thoſe diſhes of meate where<g ref="char:EOLhyphen"/>with I clogged my ſtomack.</hi> Well <hi>(ſaith one to him)</hi> if all theſe things that you accuſe your ſelfe of, were undone, would you doe them againe? <hi>Nay then doubt not but a reprobate would deſire to be ſaved, if a deſire would ſerve the turn.</hi> Indeed he may have a <hi>de<g ref="char:EOLhyphen"/>ſire,</hi> but of bare willing<g ref="char:EOLhyphen"/>neſſe, not with an intent and purpoſe in uſing the meanes.</p>
+            <p>Another time, a wor<g ref="char:EOLhyphen"/>thy friend of his, asking him how he did, he cryed
+<pb n="7" facs="tcp:52289:21"/>out, <hi>Sin, Sin, Sin!</hi> What? doth any lie on your con<g ref="char:EOLhyphen"/>ſcience? <hi>Yea.</hi> What? <hi>My inconſiderateneſſe. I did eat too much of ſuch meat, at breaking my faſt ſuch a morning,</hi> (my ſelfe being witneſſe of his great abſti<g ref="char:EOLhyphen"/>nence, could not but ad<g ref="char:EOLhyphen"/>mire the tenderneſſe of his ſelfe-accuſing conſci<g ref="char:EOLhyphen"/>ence): well <hi>(ſaid he)</hi> God be thanked there is no greater; as we muſt not extenuate our ſins, ſo nei<g ref="char:EOLhyphen"/>ther muſt we too much aggravate them; Let drun<g ref="char:EOLhyphen"/>kards and gluttons have thoſe moſt terrible hor<g ref="char:EOLhyphen"/>rours.
+<pb n="8" facs="tcp:52289:22"/>
+               <hi>I thanke God I ne<g ref="char:EOLhyphen"/>ver continued in any known ſin againſt my conſcience:</hi> He was willing that wee ſhould pray with him, Kneeling downe he ſaid, <hi>He was then uncapable of prayers;</hi> Afterward hee kneeled downe of his owne accord, ſhortly af<g ref="char:EOLhyphen"/>ter he broke out into ſuch ſpeeches, <hi>I damnable wretch.</hi> Thoſe are not your words <hi>(ſaith one),</hi> you cannot deny but you have good experience of Gods mer<g ref="char:EOLhyphen"/>cy, &amp;c. <hi>I cannot.</hi> Then be comforted, for, <hi>Whom he once loveth, he loveth for
+<pb n="9" facs="tcp:52289:22"/>ever.</hi> Yet Satan took ſuch advantage at his infirmi<g ref="char:EOLhyphen"/>ties, that though he could finde ſome comfort, yet no particular aſſurance; <hi>You have lived profitably,</hi> ſaith one.—<hi>I have endea<g ref="char:EOLhyphen"/>voured.</hi> You are now humbled, and the <hi>Lord</hi> lookes you ſhould aske mercy. Maſter <hi>Dod</hi> was ſent for, who being come, they were private awhile; afterward comming unto him againe, Maſter <hi>Dod</hi> put him in minde of Gods kindneſſe, whereof hee ſhewed him foure parts. 1. To take ſmall things in
+<pb n="10" facs="tcp:52289:23"/>good part. 2. To paſſe by infirmities. 3. To be eaſie to be intreated. 4. To be entreated for the greateſt ſin there is now in you; Now for the image of the olde man <hi>Adam,</hi> ſin and ſorrow, there ſhall be in you the image of the new man, in holineſſe, and hap<g ref="char:EOLhyphen"/>pineſſe, and righteouſ<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>The <hi>life</hi> to come, might be ſet out by three things; 1. By the <hi>eſtate</hi> it ſelfe, happineſſe, holineſſe, and glory. 2. By the <hi>company,</hi> every one ſhall love you better than any one, even
+<pb n="11" facs="tcp:52289:23"/>the beſt can love you here. 3. By the <hi>place.</hi> There are three differences between the afflictions of the good, and bad. 1. From the <hi>cauſe,</hi> for they come to the good from Gods love. 2. In the <hi>meaſure,</hi> as far as they need and are able to beare. 3. In the <hi>end,</hi> for their good. Of thoſe former doubts, we after heard not a word from him: upon the <hi>Sabbath</hi> day he deſired to be alone; after noone he was fearefully trou<g ref="char:EOLhyphen"/>bled, In his countenance appeared evident tokens of a ſorrowfull minde,
+<pb n="12" facs="tcp:52289:24"/>borne up with a weake body; his <hi>ſpirit</hi> was wounded, Satan had foi<g ref="char:EOLhyphen"/>led him: Thoſe his terri<g ref="char:EOLhyphen"/>ble wraſtlings with tem<g ref="char:EOLhyphen"/>ptations, griefes of con<g ref="char:EOLhyphen"/>ſcience, and reſtleſſe ter<g ref="char:EOLhyphen"/>rours, none can under<g ref="char:EOLhyphen"/>ſtand, much leſſe expreſſe, but <hi>he</hi> which felt them. Satan had winnowed him, and ſhewed him no<g ref="char:EOLhyphen"/>thing but chaffe; his ten<g ref="char:EOLhyphen"/>der conſcience was grie<g ref="char:EOLhyphen"/>ved with the fiery darts of the devill, pointed with the edge of ſin, and ſenſe of <hi>Gods</hi> heavy wrath; as through a falſe glaſſe, the
+<pb n="13" facs="tcp:52289:24"/>dazeled eye of his aſtoni<g ref="char:EOLhyphen"/>ſhed and amazed ſoule, could ſee nothing but hi<g ref="char:EOLhyphen"/>deouſly-appearing <hi>ſinne,</hi> and the terrible image of <hi>death,</hi> and damnation: he had drunke deeply of the dregs of hell, his adverſa<g ref="char:EOLhyphen"/>ry had repreſented unto him his owne moſt gra<g ref="char:EOLhyphen"/>cious <hi>God</hi> as a moſt ſevere Iudge, diſpleaſed, angry, and chiding with him, yea yeelding him up into his clawes, that ſo by this deadly ſtratagem, hee might take from him all hope of help that way: and ſo not only ſtop the
+<pb n="14" facs="tcp:52289:25"/>ſenſible flowing of Gods grace, and cut the chaines of Gods love wherewith he had tyed him, and would draw him after him, but finally break his Chriſtian ſoule. O that <hi>you</hi> had ſeen, and that <hi>wee</hi> which were preſent had had eyes to have ſeen his ſeeming forlorne ſoule, with what barkings of conſcience, and with what too heavy burdens of ſin, waves of fearefull thoughts, bluſtering blaſts and ſurging ſtormes of <hi>Gods</hi> heavy diſpleaſure; he was toſſed, turmoiled,
+<pb n="15" facs="tcp:52289:25"/>and daſhed againſt rockes of deſpaire, more then in danger of his ſoules ſhip<g ref="char:EOLhyphen"/>wrack! happy were <hi>we,</hi> if neither through fro<g ref="char:EOLhyphen"/>wardneſſe, nor blinde<g ref="char:EOLhyphen"/>neſſe of judgement, <hi>wee</hi> did inconſiderately paſſe by, or prophanely deride <hi>Gods</hi> judgements, by thin<g ref="char:EOLhyphen"/>king that they either hap<g ref="char:EOLhyphen"/>pen caſually, or by forget<g ref="char:EOLhyphen"/>ting of them ſuddenly. If we could but rightly diſ<g ref="char:EOLhyphen"/>cerne it, we ſhould finde nothing more profitable than to have the image of <hi>this</hi> gracious (though now afflicted) ſoule in our
+<pb n="16" facs="tcp:52289:26"/>conſciences; hereby wee may ſee that <hi>The righteous ſcarcely being ſaved,
+<note place="margin">1 Pet. 4.18.</note> there is no place for the wicked and ungodly to appeare.</hi> And truly we may thinke, that our <hi>God</hi> even ſent it for <hi>our</hi> ſakes, that we (with whom it is too uſuall to dally with <hi>God</hi>) might know,
+<note place="margin">Heb. 10.31</note> that <hi>it is afearefull thing to fall into his hands.</hi> Our faith is tryed in ear<g ref="char:EOLhyphen"/>neſt, when as the <hi>Lord</hi> hi<g ref="char:EOLhyphen"/>deth his face from us; for if we love <hi>God</hi> above all, it cannot be, but that at the loſſe of the relliſh of his favour, or leaſt taſte of
+<pb n="17" facs="tcp:52289:26"/>his diſpleaſure, our ſoules ſhould be in bitterneſſe, tormented, wounded, thruſt through, yea and ſwallowed up with de<g ref="char:EOLhyphen"/>ſolation. It is a wonder to ſee in the world, how we will ride and runne and carefully will ſeeke phyſick, and uſe dyet by any meanes to avoid bo<g ref="char:EOLhyphen"/>dily paine; and how care<g ref="char:EOLhyphen"/>leſſe we are of the unpro<g ref="char:EOLhyphen"/>fitable fits of the ſoules mortall ſickneſſe. It is not in our owne power to ap<g ref="char:EOLhyphen"/>prehend grace, when we will; and a harder mat<g ref="char:EOLhyphen"/>ter it is than we can con<g ref="char:EOLhyphen"/>ceive,
+<pb n="18" facs="tcp:52289:27"/>to lift a poore ſoule up, that is caſt downe with the ſenſe of <hi>Gods</hi> wrath. If a violent paſsi<g ref="char:EOLhyphen"/>on may ſo far tranſport the minde; what may we thinke of this reſtleſſe trembling, when the ſoul, after long toſsings ſeeth it ſelfe drowned, and over<g ref="char:EOLhyphen"/>whelmed with a deluge of ſorrow, proceeding from the everlaſting threats of ſhame and con<g ref="char:EOLhyphen"/>fuſion of face, in the pre<g ref="char:EOLhyphen"/>ſence of the Almighty? Conſider the <hi>body,</hi> laden with a burden neither portable, nor evitable;
+<pb n="19" facs="tcp:52289:27"/>and thence gather the ſtruglings of an overladen ſoule; Conſider a man ready to fall from an <hi>high</hi> Tower, to the Earth; and thence gather the eſtate of another falling from hea<g ref="char:EOLhyphen"/>ven, with a ſpirituall ruin into hell. Conſider a childe when the mother hideth her face from it, and terrifies it with a <hi>bug<g ref="char:EOLhyphen"/>beare,</hi> and therein take view of the eſtate of a poore <hi>Chriſtian</hi> (whoſe chiefeſt happineſſe having conſiſted in being joyned, and united to his heaven<g ref="char:EOLhyphen"/>ly <hi>Father</hi>) having now
+<pb n="20" facs="tcp:52289:28"/>loſt <hi>his</hi> preſence; or being affrighted with the devill, as if he were ready to lay hands on him. Conſider the eſtate of a debtor, caſt off by his beſt creditors; and gather that of a <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi> being bankerupt with his <hi>God</hi> Conſider the eſtate of a man once in favour, afterward ad<g ref="char:EOLhyphen"/>judged to death by his <hi>Prince,</hi> without hope of pardon and repriving; and gather <hi>that</hi> of a <hi>Chri<g ref="char:EOLhyphen"/>ſtian,</hi> who after his citati<g ref="char:EOLhyphen"/>on and arraignment at the tribunall ſeate of <hi>God,</hi> ſtands condemned, and is
+<pb n="21" facs="tcp:52289:28"/>wholly deprived of ob<g ref="char:EOLhyphen"/>taining pardon, and deli<g ref="char:EOLhyphen"/>vered into the hands of the devill. The <hi>Lord</hi> needs not to ſeeke wilde beaſts to puniſh us, or ſuch like executioners of his wrath to torment us, he may finde enough within us, all the furies and devils cannot invent a grievouſer torment then a wounded conſcience. One by it ap<g ref="char:EOLhyphen"/>prehended, needs not more accuſers or tormen<g ref="char:EOLhyphen"/>tors: his many thoughts of ſins (as if he ſtirred a neſt of Waſpes) come buz<g ref="char:EOLhyphen"/>zing about his eares; and
+<pb n="22" facs="tcp:52289:29"/>(as a man indebted once laid hold of,) makes him faſter daily. His loving friends may ſtand by the priſon, and call him, but he being faſt fettered can not come forth. You ſhall ſee <hi>him,</hi> now in his <hi>Purga<g ref="char:EOLunhyphen"/>tory</hi> (not that Papiſticall, ſin-ſatisfying fiction, the <hi>Popes Jayle</hi>) but that hot fiery furnace, wherein the <hi>Lord</hi> tries his mettal, whe<g ref="char:EOLhyphen"/>ther it be good or repro<g ref="char:EOLhyphen"/>bate. And by the way, <hi>Suppoſe he had dyed at the worst,</hi> (as in the <hi>Lords</hi> ju<g ref="char:EOLhyphen"/>ſtice he might) to the hardning of thoſe that
+<pb n="23" facs="tcp:52289:29"/>will not be foftned, <hi>as no man ſhould rather judge him by the inch of his death, than the length of his life;</hi> ſo I for my part, neither did in him, nor doe in my ſelfe ſo much feare <hi>his</hi> death, as I did and doe deſire his life.
+<note place="margin">Gods courſe in viſiting his children is diverſe.</note> You may obſerve the courſes which God takes in viſiting his children to be diverſe. Some are com<g ref="char:EOLhyphen"/>fortable and without any great admixture of diſ<g ref="char:EOLhyphen"/>comfort. Others heavy without horror. Others horrible, yet all in the end gracious But to leave any further <hi>digreſsion,</hi> and to
+<pb n="24" facs="tcp:52289:30"/>come aga<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne to the matter in hand. When one came unto him he brake out in<g ref="char:EOLhyphen"/>to theſe words, <hi>Oh how ſinfull, wofull, and miſera<g ref="char:EOLhyphen"/>ble is mine eſtate, that thus muſt converſe with hell<g ref="char:EOLhyphen"/>hounds!</hi> He being with thoſe words ſtraightway moved, went to call ſome of his beſt able friends to comfort him; to them he complained, that <hi>the Lord had curſed him,</hi> Being de<g ref="char:EOLhyphen"/>manded <hi>how he knew it,</hi> he anſwered, <hi>Why the event ſhewes it;</hi> It being reply<g ref="char:EOLhyphen"/>ed, how ſuch, and ſuch, were <hi>curſed;</hi> he anſwer<g ref="char:EOLhyphen"/>ed,
+<pb n="25" facs="tcp:52289:30"/>
+               <hi>I have no grace:</hi> how doe you know then that once you had none? <hi>I was a fooliſh, vain-glorious hypocrite; it is against the courſe of Gods proceedings to ſave me, he hath otherwiſe decreed; he cannot.</hi> Put your truſt in <hi>God. I can no more then a horſe.</hi> Doe you deſire to believe? <hi>No more then a poſt, then a horſe-ſhoo.</hi> I know you cannot deny, but you have ſought <hi>Gods</hi> glory. Not ſincerely. There is a ſecret mixture of pride and hypocriſie in the beſt. <hi>I have no more ſenſe of grace than thoſe cur<g ref="char:EOLhyphen"/>taines;
+<pb n="26" facs="tcp:52289:31"/>than a gooſe; than that block:</hi> Let the teſti<g ref="char:EOLhyphen"/>mony of your life paſt comfort you, eſpecially in the calling of a Tutour. <hi>I did the buſineſſe thereof per<g ref="char:EOLhyphen"/>functorily, when I handled hard authors, I came often unprepared, and read ſhame<g ref="char:EOLhyphen"/>fully.</hi> Be of good courage, and the <hi>Lord</hi> will com<g ref="char:EOLhyphen"/>fort your ſoule. <hi>It is ended, there is no ſuch matter.</hi> Why doe you thinke ſo? <hi>You ſhall ſee the event. God</hi> will bring it to paſſe. <hi>Tuſh, tuſh, trifles;</hi> What doe you thinke of your former do<g ref="char:EOLhyphen"/>ctrine? <hi>Very good.</hi> Let it
+<pb n="27" facs="tcp:52289:31"/>comfort you; <hi>It cannot.</hi> You deſire it could. <hi>If it might.</hi> There is nothing unpoſsible to God. <hi>Which ſtands with his decree:</hi> Oh, oh, <hi>Miſerable, and wofull! the burden of my ſin lyeth heavy upon me, I doubt it will breake my ſoule.</hi> Behold your comforts. <hi>Nothing to me; I pray you hold your peace, doe not trouble your ſelfe idly; you vex me, your words are as daggers to my ſoule.</hi> Another time ſome of the yonger ſort ſaid, remember <hi>Sir</hi> what good counſell you have given <hi>us</hi> heretofore. <hi>Theſe were
+<pb n="28" facs="tcp:52289:32"/>ordinary.</hi> You may ſee ma<g ref="char:EOLhyphen"/>ny others in the like eſtate. <hi>Not ſuch as mine.</hi> See <hi>Da<g ref="char:EOLhyphen"/>vid. What doe you ſpeake to me of David?</hi> Good Sir endeavour to ſettle your minde: <hi>Yes, to play with hell-bounds.</hi> Will you pray? <hi>I cannot.</hi> You were wont heretofore. <hi>Yes, by a cu<g ref="char:EOLhyphen"/>ſtome, and for vain-glory.</hi> Suffer us to pray for you. <hi>Take not the name of God in vaine in praying for a re<g ref="char:EOLhyphen"/>probate.</hi> 
+               <q>(There you may ſee the glory of <hi>God</hi> preferred before his owne ſalvation, rather willing to have the
+<pb n="29" facs="tcp:52289:32"/>meanes of his owne ſal<g ref="char:EOLhyphen"/>vation neglected, than the Lord diſhonoured.)</q> Suffer us to pray for our ſelves. <hi>Looke to it. You would now ſhew your faculty in praying.</hi> Can you ſay Amen? <hi>No, but in a cer<g ref="char:EOLhyphen"/>taine generall faſhion.</hi> One prayed, and in the meane time, <hi>he</hi> reſted moſt quiet<g ref="char:EOLhyphen"/>ly; and when prayer was ended, <hi>I pray you,</hi> ſaith he, <hi>goe hence to bed, trouble not your ſelves in vaine.</hi> Let not the devill delude you, abuſing your minde and tongue, I know you ſpeak not theſe words. <hi>I wonder
+<pb n="30" facs="tcp:52289:33"/>that intelligent Schollers ſhould ſpeake this.</hi> We are perſwaded you are in as good eſtate as our ſelves. One that watched with him asked him, <q>
+                  <hi>Sir,</hi> how can you diſcerne this change by the abſence of God, if you never en<g ref="char:EOLhyphen"/>joyed his preſence?</q> 
+               <hi>I thought I had once, but now I ſee it far otherwiſe.</hi> But God deales with you as he did with the <hi>Church,</hi>
+               <note place="margin">Iſa. 54.8.</note> hee forſooke it a while, and hid his face, but he return<g ref="char:EOLhyphen"/>ed to it againe: and ſo no doubt the caſe ſtands with you. <hi>Never adde moe
+<pb n="31" facs="tcp:52289:33"/>afflictions to the afflicted. Oh me wretch!</hi> groaning pitti<g ref="char:EOLhyphen"/>fully. Hope no worſe of your ſelfe <hi>(ſaith one)</hi> then we doe of you All of us have ſeene clearely which way your carriage was ſtill ſet, after the Spirit; and we are aſſured you will come to the <hi>Spirit,</hi> howſoever you ſeeme to have loſt your way. To all <hi>particulars</hi> he would anſwer generally, <hi>I doe de<g ref="char:EOLhyphen"/>ſire grace; I did good out<g ref="char:EOLhyphen"/>wardly, but all hypocritically.</hi> One asked him, <hi>Doe you love ſuch a one,</hi> his moſt deare (and worthy to bee
+<pb n="32" facs="tcp:52289:34"/>deare) friend? <hi>Yes.</hi> Why? <hi>Becauſe of his goodneſſe.</hi> Why then you are Gods childe,
+<note place="margin">1 Ioh. 3.14.</note> 
+               <hi>for by this marke we know we are tranſlated from death, &amp;c.</hi> Many like for<g ref="char:EOLhyphen"/>cible proofes he would put off with his former evaſions; and afterward grew more wary againſt himſelfe, either loath to grant any thing, or grant<g ref="char:EOLhyphen"/>ing it ſtaggeringly, or <hi>(what then?)</hi> fearing he ſhould be preſſed. He wiſhed that ſome were put in minde. 1. For their great care for <hi>buildings,</hi> and too ſmall care for
+<pb n="33" facs="tcp:52289:34"/>Schollers in them 2. Their giving ſo long leave of ab<g ref="char:EOLhyphen"/>ſence from the Colledge, and deſired amendment; After noone came a wor<g ref="char:EOLhyphen"/>thy Governour of a <hi>Col<g ref="char:EOLhyphen"/>ledge,</hi> in our Vniverſity; He requeſted him to be of good comfort, and to pluck up his ſpirit. <hi>I can<g ref="char:EOLhyphen"/>not.</hi> Why can you not? <hi>Becauſe I have no grace, no more then a ſtake.</hi> Why thinke you ſo? <hi>By this af<g ref="char:EOLhyphen"/>fliction.</hi> Doe you deſire grace? <hi>I cannot,</hi> (he ſpake moſt ſtrangely) <hi>I can as well leap over a Church.</hi> But are you not ſorry you can<g ref="char:EOLhyphen"/>not
+<pb n="34" facs="tcp:52289:35"/>deſire it? <hi>I cannot.</hi> Would you not be in hea<g ref="char:EOLhyphen"/>ven? <hi>I would not.</hi> One ſtanding by ſaid, <hi>the devill would if he could.</hi>
+            </p>
+            <p>By the way you ſhall have the opinion of a much reſpected <hi>Miniſter</hi> oppoſite hereto; which he gave in private. <q>
+                  <hi>A proud man,</hi> (ſaith he) <hi>will thinke ſcorne to ſeeke any good from his enemies; ſo the devils pride will not let him thinke himſelfe be<g ref="char:EOLhyphen"/>holding to God for heaven, if he might get it.</hi>
+               </q>
+            </p>
+            <p>You have <hi>(ſaith one)</hi> the teſtimony of <hi>faith,</hi> you
+<pb n="35" facs="tcp:52289:35"/>love the brethren? <hi>I did not.</hi> Doe you not love us? <hi>No.</hi> The devill now, <hi>ſaith he,</hi> ſhould be caſt in<g ref="char:EOLhyphen"/>to his ſtreights, if you ſhould grant this. What is it that doth moſt trou<g ref="char:EOLhyphen"/>ble you? <hi>I undertooke too much upon me fooliſhly. I had gotten a little Logick, and Greek, and meanly inſtru<g ref="char:EOLhyphen"/>cted in the Rules, did ſet my ſelfe to reade to Schollers, and afterward undertooke often buſineſſe, which diſtra<g ref="char:EOLhyphen"/>cted my minde and body from them, I have deſtroyed a thou<g ref="char:EOLhyphen"/>ſand ſoules.</hi> You may ſee the falſhood of him that
+<pb n="36" facs="tcp:52289:36"/>ſuggeſteth this unto you, you never had a <hi>thouſand,</hi> he puts a falſe glaſſe be<g ref="char:EOLhyphen"/>fore you; the good ef<g ref="char:EOLhyphen"/>fects of your paines ap<g ref="char:EOLhyphen"/>peares in many of your <hi>Scholters; Oh they were themſelves capable.</hi> Name one wherein they do not, <hi>There is one</hi> (pointing at a Maſter of Arts then pre<g ref="char:EOLhyphen"/>ſent) <hi>he</hi> juſtifi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d his care of him and thanked <hi>God</hi> that ever he knew him. <hi>It is not ſo. I did fooliſhly:</hi> You confeſſe you did fooliſhly, therefore not of malice. Againe, conſider what would have become of
+<pb n="37" facs="tcp:52289:36"/>them, if you had not taken them. '<hi>Better, far better:</hi> All in the Colledge know to the contrary. <hi>But I feele it:</hi> It is falſe, believe not the devill. <hi>It is too true.</hi> Then will you make amends? God will give you your ſoules deſire. <hi>Never.</hi> Are you ſorry that he will not? <hi>No. There is no grace in the ſoule, it is dead.</hi> Such was <hi>Davids</hi> caſe. <hi>What doe you compare me with David?</hi> Behold Chriſt himſelfe. <hi>Nothing to me.</hi> God can make his death availeable. <hi>He can<g ref="char:EOLhyphen"/>not.</hi> He is omnipotent.
+<pb n="38" facs="tcp:52289:37"/>
+               <hi>In me he cannot, becauſe it ſtands not with his purpoſe.</hi> Whom God loveth once, &amp;c. <hi>But he never loved me</hi>— You have taſted of his love. <hi>I deceived my ſelfe in a certaine vain-glory; I expoſed my head to many things outwardly only.</hi> You could ſay the <hi>Lords</hi> pray<g ref="char:EOLhyphen"/>er, and therein <hi>call him</hi> Fa<g ref="char:EOLhyphen"/>ther. <hi>Hypocritically. I was wont to enquire of Maſter</hi> Maſon, what was meant by <hi>Abba Father, rather in curioſity, then truly to be edi<g ref="char:EOLhyphen"/>fied.</hi> God will give a good iſſue. <hi>Never, I have no ſenſe.</hi> We will pray with you.
+<pb n="39" facs="tcp:52289:37"/>
+               <hi>Doe not diſhonour God.</hi> It is well that you will not have God diſhonoured; Here he ſticked, ſaying, I pray you trouble me not with diſtinctions: After<g ref="char:EOLhyphen"/>ward came one, who with vehement action of body preſſed him, and ur<g ref="char:EOLhyphen"/>ged him that he would truſt upon God. <hi>I cannot</hi> (ſaid he) <hi>he will not have me ſaved, his ſentence is paſſed.</hi> Doe you deſire to be ſa<g ref="char:EOLhyphen"/>ved? <hi>Noe.</hi> Doe you de<g ref="char:EOLhyphen"/>ſire to deſire? <hi>No.</hi> Would you be damned? <hi>No.</hi> Look at the ſins of other men as great as yours, and yet they
+<pb n="40" facs="tcp:52289:38"/>are ſaved. <hi>They were good and godly.</hi> They found grace—<hi>Here is the diffe<g ref="char:EOLhyphen"/>rence, my ſins are horrible;</hi> he repeated that towards his Schollers—All of us know you tooke paines. <hi>Outwardly.</hi> You did your beſt. <hi>No.</hi> I ſee now what it is, you ſtrictly looke back to your owne acti<g ref="char:EOLhyphen"/>ons, as a <hi>Juſtitiary,</hi> who will none of Gods mercy, and now he hath juſtly met with you: <hi>Your judgement is juſt:</hi> Theſe words affected ſome ſtrangely. Another wil<g ref="char:EOLhyphen"/>led him to looke to it, It
+<pb n="41" facs="tcp:52289:38"/>ſeemed neare <hi>Popery.</hi> Doe you hope to be juſtified by your merits? <hi>I feare to be damned for my ſins.</hi> The other asked him, whether he could ſay, Amen. <hi>No.</hi> Have you no tongue? <hi>What is that to the purpoſe?</hi> Name <hi>Jeſus,</hi> at his name will flie away, &amp;c. <hi>I can<g ref="char:EOLhyphen"/>not.</hi> If I had your tongue in my hand, I would make you ſpeak. Turning his ſpeech to a friend pre<g ref="char:EOLhyphen"/>ſent, <hi>O</hi> (ſaith he) <hi>if you did feele my griefe an houre, you would have compaſsion!</hi> The other replyed, if you were in the fire you
+<pb n="42" facs="tcp:52289:39"/>would wiſh to get out. <hi>I had rather be in the fire than here.</hi> I will pray for you. <hi>Sin not.</hi> Let the fault bee mine. <q>Although my purpoſe was barely to relate the paſſages of this gracious <hi>mans</hi> viſi<g ref="char:EOLhyphen"/>tation, and to refer to your ſpirituall eye, what you could finde therein, yet let your gentle con<g ref="char:EOLhyphen"/>ſtruction with-hold fro<g ref="char:cmbAbbrStroke">̄</g> me the deſerved cenſure of bold blindneſſe, in that I now and then point at ſome things which your quick ſight may ſooner and better
+<pb n="43" facs="tcp:52289:39"/>apprehend.</q> The devils malitious policy was ſo great towards him, in that he aſſaulted him moſt ſtrongly in that, which might and ought to have been his greateſt comfort. Again, I ſaw the <hi>Phyſitians</hi> opinion helped ſome<g ref="char:EOLhyphen"/>what in bodily maladies, or diſeaſes; whereas in <hi>that</hi> his eſtate, his ſoule re<g ref="char:EOLhyphen"/>mained (as it were) unca<g ref="char:EOLhyphen"/>pable of comfort from the <hi>ſoules</hi> phyſitian. He much reſpected ſome few, hee dolefully poured out his ſoule into the boſome of a well-willer of his on this
+<pb n="44" facs="tcp:52289:40"/>manner. <hi>I tooke upon mee too proudly many things, and being negligent, performed nothing. Curſed be the day when I tooke Schollers: if I had not taken them, I had been happy with a good flou<g ref="char:EOLhyphen"/>riſh. I was ſtirring many waies, and in the meane time left the eſſence of my calling, teaching of my Schollers.</hi> What <hi>(ſaith the other)</hi> ſhall I now doe, when I ſee you thus toſſed? <hi>Well, I was an hypocrite, therefore there is no hope of comfort for me in Gods preſence, I have no ſenſe of it.</hi> The Sun is in the Firmament, though
+<pb n="45" facs="tcp:52289:40"/>hid in a cloud. <hi>This com<g ref="char:EOLhyphen"/>pariſon agreeth not to me.</hi> What then would you counſell me to doe? <hi>Abide within the bounds of your calling, take not too much on you, and the Lord will bleſſe you.</hi> Will it availe me to heare Sermons? <hi>Yes, if you meane to be ſaved.</hi> What good ſhall I reap thence? <hi>Nothing from the bare hear<g ref="char:EOLhyphen"/>ing. Oh this heavy lumpiſh feare hath oftentimes ſhaked me, and now it hath broken out!</hi> Another ſaid, You know the poore in ſpirit are bleſſed. <hi>I am not ſuch.</hi> You ſee you are empty of
+<pb n="46" facs="tcp:52289:41"/>all good, you feele the burthen. <hi>I pray goe your waies.</hi> He turned his head aſide and ſtopped his cares. What though you have done but little good, if you have given but a cup of cold water? <hi>He thruſted him away with his foot,</hi> either as ſome thoght being troubled with his ſhrill voice, or as he reply<g ref="char:EOLhyphen"/>ed, through the devils ſub<g ref="char:EOLhyphen"/>tilty. That evening hee was grievouſly afflicted: ſuddenly he breakes out, <hi>Oh if God!</hi> The ſtanders by endeavoured to che<g ref="char:EOLhyphen"/>riſh this good motion,
+<pb n="47" facs="tcp:52289:41"/>and ſaid unto him, God will give you grace. <hi>I doubt it.</hi> Then preſently after he uttered this pray<g ref="char:EOLhyphen"/>er. <hi>Oh God, give me a ſpark of grace, and inlarge my ſoule that I may apprehend it.</hi> He asked a friend how he might give ſatisfaction for ſome ſpeeches. Maſter <hi>Dod,</hi> although he depart<g ref="char:EOLhyphen"/>ed on Saturday, and had then an unfeaſonable journey, yet being reque<g ref="char:EOLhyphen"/>ſted by letters, returned on Tueſday following. He at the firſt ſight ſtarted up as deſirous to meete him. <hi>Oh Maſter Dod</hi>
+               <pb n="48" facs="tcp:52289:42"/>(and in friendly ſort com<g ref="char:EOLhyphen"/>plained) <hi>I have no grace;</hi> I will not (ſaith Maſter <hi>Dod</hi>) believe every one that ſaith he hath grace, nor every one that ſaith, he hath not any. Anſwer the devill as <hi>Chriſt</hi> did. A man muſt not alway bee lead by ſenſe, let us en<g ref="char:EOLhyphen"/>quire by the effects, and it may ſuffice.
+<note place="margin">A Chriſti<g ref="char:EOLhyphen"/>an muſt not alwaies be led by ſenſe.</note> If you can but finde one, even the leaſt, it is enough; You forgive your enemies, and love them, and would do them no hurt if you can? <hi>Yes.</hi> Then your enemies are forgiven. An hypo<g ref="char:EOLhyphen"/>crite
+<pb n="49" facs="tcp:52289:42"/>may give almes, and faſt; this he cannot doe. <hi>That is a ſmall matter.</hi> I thinke it to be a great one, yea ſuch a one as I had need to pray for. That is put for a reaſon in the Lords prayer, and if Chriſt had thought any more forcible, he would have given it; <hi>Sir, thats true in thoſe that are elected.</hi> Doe not put an exception, where God hath not; I would not handle you as I doe, but that I know your eſtate. I come hither to cheriſh you, you love
+<pb n="50" facs="tcp:52289:43"/>your good friends? <hi>I can<g ref="char:EOLhyphen"/>not.</hi> Had you rather that <hi>bad,</hi> or <hi>good</hi> ſhould bee with you? <hi>Good.</hi> Yet you ſay you doe not love them. A ſowe would be with ſwine,
+<note place="margin">2 Cor. 6.14</note> there is no fellowſhip between light and darkneſſe; would you believe the phyſitian, or your ſelfe touching the life of the body? <hi>The phy<g ref="char:EOLhyphen"/>ſitian.</hi> Believe not your ſelfe then now. You are ſick, yet ſhall be reſtored. <hi>It is impoſsible.</hi> Why ſo? If you had ſinned as much as you could, you could
+<pb n="51" facs="tcp:52289:43"/>not have ſinned as much as <hi>Adam,</hi> yet he is in hea<g ref="char:EOLhyphen"/>ven. <hi>It repented him.</hi> Doth it not you? <hi>No.</hi> Doth your ſin, or ſickneſſe more trouble you? or had you rather have grace or health? <hi>Grace.</hi> Well then. <hi>But it cannot be.</hi> God will waſh you. <hi>But I have no water.</hi> God will bring it with him. <hi>He hath denied it.</hi> He hath offered it by his <hi>Miniſters,</hi> which are as the buckets to draw and poure it out. You muſt not look now, that <hi>God</hi> ſhould come to you
+<pb n="52" facs="tcp:52289:44"/>himſelfe; doe you thinke it a ſmall favour of <hi>God,</hi> that ſo many good friends come to you? <hi>God</hi> ſent none to comfort <hi>Cain,</hi> and <hi>Achitophel.</hi> Think of that ſaying of <hi>Manoahs</hi> wife. If the Lord were pleaſed to kill us, he would not have received a burnt of<g ref="char:EOLhyphen"/>fering, and a meat offer<g ref="char:EOLhyphen"/>ing at our hands, neither would he have ſhewed us all theſe things,
+<note place="margin">Iudg. 13.23.</note> &amp;c. Behold the properties of Chriſts ſheepe. Firſt, they are weake. Secondly, they are ſick. Thirdly, broken.
+<pb n="53" facs="tcp:52289:44"/>Fourthly, driven away. Fifthly, Loſt. You are ſuch. See your comfort. Firſt, he will ſtrengthen. Secondly, heale. Thirdly, binde up. Fourthly, bring againe. Fifthly, hee will ſeeke you. You finde your ſelfe a great debtor, The Lord hath pardoned, on<g ref="char:EOLhyphen"/>ly he lookes you ſhould come to him for acquit<g ref="char:EOLhyphen"/>tance: This <hi>fight</hi> is not yours, but the <hi>Lords,</hi> put your truſt in him. If you aske me, <hi>how may I?</hi>
+               <note place="margin">2 Chron. 20.20.</note> It followeth, <hi>Believe his Pro<g ref="char:EOLhyphen"/>phets, and you ſhall proſper.</hi>
+               <pb n="54" facs="tcp:52289:45"/>You may remember that <hi>Chriſt</hi> did pray for <hi>Peter,</hi> that his <hi>faith might not faile;</hi>
+               <note place="margin">Luk. 22.32</note> but it failed afterward: How came it to paſſe? <hi>That failing</hi> did rather ſtrengthen it; for whereas he gloried,
+<note place="margin">Mat. 26.33</note> that <hi>if all ſhould forſake Chriſt, yet he would not,</hi> Had he been asked, <hi>Doeſt thou promiſe this by thine owne ſtrength, or by mine?</hi> He muſt here needs have anſwered, <hi>mine.</hi> For otherwiſe he would have requeſted his helpe. This happens to <hi>you,</hi> becauſe you credit the ſuggeſtions
+<pb n="55" facs="tcp:52289:45"/>of carnall <hi>reaſon,</hi> and not the <hi>Word,</hi> rather, Oh, the cunning of the adverſary! Deale with him, not by cunning, but hold him to the <hi>Word,</hi> ſeek for ſtrength in <hi>God</hi> to reſiſt ſin. You may ſee the <hi>Apoſtles</hi> in the tempeſt, it was from their weakneſſe, that they di<g ref="char:EOLhyphen"/>ſtruſted, yet of <hi>God</hi> they prayed. <hi>I cannot pray.</hi> Heare what Saint <hi>James</hi> ſaith,
+<note place="margin">Jam. 5.13.</note> 
+               <hi>Is any man afflicted, &amp;c.</hi> Af<g ref="char:EOLhyphen"/>flictions further prayer, but muſt ſickneſſe hinder? wherefore, behold your friends, whoſe mindes as
+<pb n="56" facs="tcp:52289:46"/>the <hi>Lord</hi> hath ſtirred up to pray for you, ſo will he ſtir up himſelfe to heare them; their prayers are yours: yea, you have the prayers of many which never knew you. And as <hi>God</hi> ſaid to <hi>Cain,
+<note place="margin">Gen. 4.7.</note> Sin lyeth at the doore,</hi> ready as it were to devoure <hi>him;</hi> ſo his promiſed bleſsing, doth as it were, expect you. If your ſalvation were now in your owne hands, it is likely you would yeeld up all, but your name is written in the heart of <hi>Chriſt.</hi> Sir, let
+<pb n="57" facs="tcp:52289:46"/>me watch with you this night. <hi>No.</hi> Why? Becauſe it might hurt me. He fear<g ref="char:EOLhyphen"/>ing the concluſion ſaid, <hi>Here is a ſnatching argu<g ref="char:EOLhyphen"/>ment.</hi> Nay rather I will not ſuffer you, <hi>becauſe you would trouble me.</hi> In the morning M. <hi>Dod</hi> came to him againe, and asked him <hi>how he did?</hi> hee an<g ref="char:EOLhyphen"/>ſwered, <hi>Lamentably, wret<g ref="char:EOLhyphen"/>chedly, miſerably. No ſtamp of grace in me.</hi> Doe you deſire to be eaſed? <hi>Infi<g ref="char:EOLhyphen"/>nitely. Oh if God would give me but a drop! I was ſo foo<g ref="char:EOLhyphen"/>liſh, I alwaies would be do<g ref="char:EOLhyphen"/>ing
+<pb n="58" facs="tcp:52289:47"/>of ſomething, yet nothing well.</hi> I pray you what was the calling of the good <hi>theefe</hi> upon the Croſſe? Do you not think that <hi>God</hi> can put a diſtinction be<g ref="char:EOLhyphen"/>twixt his grace and your corruption? Behold the <hi>Church</hi> ſometimes hope<g ref="char:EOLhyphen"/>leſſe and helpleſſe, as <hi>Jo<g ref="char:EOLhyphen"/>nah</hi> in that his bed, <hi>God</hi> ſeeth your thoughts, but you ſee not him. <hi>But I feele horrour.</hi> Where miſery is, there is grace much more. Then eſpecially appeares the excellency of the phy<g ref="char:EOLhyphen"/>ſitian, when health is
+<pb n="59" facs="tcp:52289:47"/>the leaſt hoped. The de<g ref="char:EOLhyphen"/>vill doth abuſe your mind and tongue againſt your ſelfe: but doubt not, the <hi>Lord</hi> will caſt downe the ſtrong holds of carnall reaſon: only doe not ſup<g ref="char:EOLhyphen"/>preſſe that grace of <hi>God,</hi> which although it appeare but ſmall,
+<note place="margin">1 King. 18.44.</note> as big a cloud as a mans hand, yet it ſhall be increaſed, as a mighty raine, by which your dry ſoule ſhall bee moiſtened. <hi>Chriſt</hi> riſing againe from the dead, did firſt appeare to <hi>Mary Magdalen</hi> that ſin<g ref="char:EOLhyphen"/>ner;
+<note place="margin">Mat. 28. Luke 24. Joh. 20.16, 18.</note> and after command<g ref="char:EOLhyphen"/>ed
+<pb n="60" facs="tcp:52289:48"/>to tell it firſt to <hi>Peter</hi>
+               <note n="*" place="margin">Marke 16.7.</note>, which had denyed him: ſee there is mercy. The godly in their afflictions doe but forget their com<g ref="char:EOLhyphen"/>forts; <hi>God</hi> helpes their memory, helpes all; the godly loſing the ſenſe of Gods favour, is like to a man that hath loſt his <hi>purſe,</hi> which if he could finde, he is rich enough; but the wicked cannot be brought to remembrance, they never knew it. Thus hee ſuffered him to reſt a while, afterwards turn<g ref="char:EOLhyphen"/>ing, he reſted, and others
+<pb n="61" facs="tcp:52289:48"/>prayed. Then hee was asked how he did? <hi>Miſe<g ref="char:EOLhyphen"/>rably.</hi> Doe you not ſearch into the ſecrets of God? <hi>It is too true and manifeſt.</hi> Sir, doe not alwaies bee digging at your ſinne; a wound alwaies rubbed, cannot be cured; ſuffer the plaiſter of the <hi>word</hi> of <hi>God</hi> to reſt upon it, that it may be holpen. <hi>Oh if I had, Oh if it would pleaſe God! I had rather than any thing in this, or twenty thou<g ref="char:EOLhyphen"/>ſand worlds beſides!</hi> Hee now giveth this good de<g ref="char:EOLhyphen"/>ſire unto you, <hi>Of our ſelves
+<pb n="62" facs="tcp:52289:49"/>we cannot thinke a good thought;</hi>
+               <note place="margin">2 Cor. 3.5. Phil. 2.13.</note> God giveth both the will and the deed: A deſire is a ſure token. <hi>But I cannot truly deſire.</hi> You doe not deſire falſely, and therefore truly. What do you diſſemble? <hi>Here is a trick;</hi> you muſt needs di<g ref="char:EOLhyphen"/>ſtinguiſh betwixt <hi>imper<g ref="char:EOLhyphen"/>fect</hi> deſire, and <hi>hypocriti<g ref="char:EOLhyphen"/>call;</hi> Would you know whether your deſire bee true? There bee two ſignes thereof. Firſt, <hi>Con<g ref="char:EOLhyphen"/>ſtancie;</hi> And ſecondly, a conſcionable uſing of the meanes. You have found
+<pb n="63" facs="tcp:52289:49"/>theſe in <hi>you.</hi> Doth this ar<g ref="char:EOLhyphen"/>gument hold? You doe not <hi>feele</hi> it, therefore you <hi>have</hi> it <hi>not.</hi> I know when you would have denyed ſuch an argument. If that did follow, it ſhould fare well with the reprobate, He hath no ſenſe of the wrath of <hi>God,</hi> therefore he is not under it.
+<note place="margin">Luk. 1.43.</note> 
+               <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> ſaid, <hi>Whence is it that the mother of my Lord ſhould come to me?</hi> So ſay you. <hi>Whence is it</hi> that ſo many of the ſervants of the <hi>Lord</hi> doe come to me? Surely from their <hi>Chriſtian</hi> hearts.
+<pb n="64" facs="tcp:52289:50"/>Truly, I could hardly come to you, but that I thought I was bound in co<g ref="char:cmbAbbrStroke">̄</g>ſcience, becauſe I know you to be the ſervant of the <hi>Lord.</hi> When you were well, if we ſhould have come with proofes out of the <hi>word</hi> of <hi>God,</hi> you would have believed us. <hi>Yes.</hi> Why not now when your judgement is blind<g ref="char:EOLhyphen"/>ed? <hi>Oh the judgement of God!</hi> Call it as <hi>He</hi> calleth it, <hi>Correction. Oh my miſe<g ref="char:EOLhyphen"/>rable heart! Oh death!</hi> A dead man cannot perceive himſelfe dead, and <hi>God</hi>
+               <pb n="65" facs="tcp:52289:50"/>quickneth the dead. <hi>Oh if he would inlarge my ſoul!</hi> This deſire is good. <hi>But it is without ſavour.</hi> God in mercy will yeeld you a comfortable relliſh. Con<g ref="char:EOLhyphen"/>ſider I pray you, whereas you may object, <hi>the Lord is ſtrong, and terrible:</hi>
+               <note place="margin">Exod. 34.6</note> it followeth: <hi>Mercifull</hi> with<g ref="char:EOLhyphen"/>all. <hi>But I am backward in ſeeking it.</hi> He is <hi>gracious,</hi> more forward than you can be backward <hi>But I have provoked him.</hi> Hee is ſlow to anger. <hi>But my ſins are great.</hi> But <hi>he</hi> is abun<g ref="char:EOLhyphen"/>dant in <hi>goodneſſe and truth;</hi>
+               <pb n="66" facs="tcp:52289:51"/>The <hi>Lord</hi> hath promiſed that <hi>He</hi> on his part, <hi>will be our God,</hi> and we on our part, <hi>ſhall be his people.</hi> For a while <hi>he</hi> commended him to <hi>God,</hi> ſhortly after returning, he prayed with him. Caſt your burthen upon the Lord. <hi>He hath re<g ref="char:EOLhyphen"/>jected me.</hi> Who made you his counſellor?
+<note place="margin">Deut. 29.29.</note> 
+               <hi>Secre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> things belong unto God, but revealed things to us:</hi> wil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you make Almanacks? <hi>He doth manifeſt it: Oh my abominable bringing up of youth!</hi> he withall groaned moſt deeply. If you had
+<pb n="67" facs="tcp:52289:51"/>done as the juſteſt man, you ſhould ſtand need of Chriſts merits. I, or ano<g ref="char:EOLhyphen"/>ther may bring argu<g ref="char:EOLhyphen"/>ments, but it belongs un<g ref="char:EOLhyphen"/>to <hi>God</hi> to faſten them up<g ref="char:EOLhyphen"/>on the ſoule: I ſay to you as <hi>Noah</hi> ſaid to <hi>Japhet,
+<note place="margin">Gen. 9.2.</note> God ſhall enlarge Japhet, &amp;c.</hi> What <hi>if your ſinnes were as crimſon?</hi> God can make them as ſnow.
+<note place="margin">Iſai. 1.18.</note> 
+               <hi>That is true of thoſe that are capable.</hi> Be<g ref="char:EOLhyphen"/>hold we make your eſtate our owne, we have part of your ſorrow: who hath thus diſpoſed our ſoules thinke you? <hi>God.</hi>
+               <pb n="68" facs="tcp:52289:52"/>And doe you thinke that <hi>he</hi> which cauſeth <hi>us</hi> to love you, doth not love you himſelfe? <hi>I feare I did too much glory in matters of private ſervice to God.</hi> The nearer we come to <hi>God,</hi> the more we ſee our owne vileneſſe; This is the uſe I make of it. Bleſ<g ref="char:EOLhyphen"/>ſed be <hi>God,</hi> who hath not put our eſtate in the devils hands, but kept it in his owne. The devill hath now removed you, and you thinke that all is gone out, but <hi>God</hi> knows <hi>what,</hi> and <hi>who</hi> is his. An <hi>artifi<g ref="char:EOLhyphen"/>cer</hi>
+               <pb n="69" facs="tcp:52289:52"/>can diſtinguiſh droſſe from mettall, and cannot <hi>God</hi> his from yours? Well, with <hi>Job</hi> lay your <hi>hand</hi> on your <hi>mouth,</hi>
+               <note place="margin">Job 40.4.</note> and hold your peace: and ſo good reſt have you. Only, conſider your comfort, though it be but ſmall, whence it comes; from <hi>Gods</hi> word, and ſervants, no other<g ref="char:EOLhyphen"/>wiſe. When he returned againe, to give and take <hi>farewell,</hi> he began to com<g ref="char:EOLhyphen"/>plaine, <hi>Oh great and grie<g ref="char:EOLhyphen"/>vous!</hi> The Lord knoweth what power he hath gi<g ref="char:EOLhyphen"/>ven you; A father will
+<pb n="70" facs="tcp:52289:53"/>put a greater <hi>burden,</hi> on a ſtronger ſon: but ſee the difference. Firſt, when an earthly father or <hi>Maſter,</hi> ſetteth his ſervant or ſon on worke, they muſt doe it with their <hi>own</hi> ſtrength; but the <hi>Lord</hi> ſetteth on worke, &amp; giveth ſtrength too. Be not diſcouraged, you are now in your cal<g ref="char:EOLhyphen"/>ling. <hi>Oh my ſoule is miſera<g ref="char:EOLhyphen"/>ble!</hi> What then: a father loveth his ſon as well when hee is ſleeping as waking.
+<note place="margin">Ioh. 14.26.</note> The <hi>holy Ghoſt</hi> calls to remembrance, what you have heretofore
+<pb n="71" facs="tcp:52289:53"/>taught, and now heard, and although I ſhall bee abſent in body, yet ſhall I be preſent in minde: Be not covetous to ſeeke a<g ref="char:EOLhyphen"/>bundance, by and by. If <hi>Jacob</hi> could ſay to <hi>Eſau,
+<note place="margin">Gen. 33.10</note> I have ſeen thy face, as if I had ſeen the face of God;</hi> much more ſhould you thinke ſo of the children of God. <hi>Chriſt</hi> come unto you! <hi>I thanke God, he hath begun to eaſe me.</hi> He will in his good time. <hi>God grant.</hi> Thus hee tooke his <hi>laſt</hi> farewell. <hi>Although we de<g ref="char:EOLhyphen"/>part from our friends in the
+<pb n="72" facs="tcp:52289:54"/>way, yet we ſhall meet in the end.</hi> One told Maſter <hi>Dod</hi> that he had uttered ſuch words, <hi>Now the Lord hath made me a ſpectacle.</hi> Whereby he counſelled <hi>one,</hi> that attended him, to be ſparing in admitting commers in, or ſpeakers, leſt his braine ſhould bee too much heated. A friend of his comming to him, asked him, Dare you any more repine againſt God? <hi>Why ſhould I ſo?</hi> God bee bleſſed! It is a ſigne of grace. <hi>But I have no means.</hi> You have had them of<g ref="char:EOLhyphen"/>fered.
+<pb n="73" facs="tcp:52289:54"/>
+               <hi>But not given with effect.</hi> They ſhall I doubt not. <hi>God grant, but I feele it not.</hi> He received a let<g ref="char:EOLhyphen"/>ter from a friend very re<g ref="char:EOLhyphen"/>ſpectively, and much re<g ref="char:EOLhyphen"/>ſpected of them both, wherin theſe words were written. <q>
+                  <hi>I heard, I know not how true, that our deare Christian friend Maſter</hi> Peacock, <hi>is in great dan<g ref="char:EOLhyphen"/>ger, which hath much grie<g ref="char:EOLhyphen"/>ved and afflicted my ſoule, and wrung from me very bitter teares; if his extre<g ref="char:EOLhyphen"/>mities be ſuch, his tentati<g ref="char:EOLhyphen"/>ons ſure be like to be very
+<pb n="74" facs="tcp:52289:55"/>ſore. Tell him from mee, as one who did ever with deareſt loving affection know, and converſe with him, that I can aſſure him in the word of life, and truth, from a moſt juſt and holy God, whoſe Miniſter I am, that he is undoubted<g ref="char:EOLhyphen"/>ly one of his Saints, deſign<g ref="char:EOLhyphen"/>ed for immortality, and thoſe endleſſe joyes in ano<g ref="char:EOLhyphen"/>ther world.</hi>
+               </q> When it was read to him, at theſe words <hi>I can aſſure him,</hi> he ſaid, <hi>Oh take heed, take heed.</hi> Do you thinke that <hi>he</hi> would or durſt aſſure you, unleſſe
+<pb n="75" facs="tcp:52289:55"/>hee knew upon what grounds? <hi>I deceived my ſelfe, now God hath revealed more.</hi> Another time one requeſted him that hee would make his friends partakers of the leaſt com<g ref="char:EOLhyphen"/>fort that the Lord had be<g ref="char:EOLhyphen"/>ſtowed upon him, as they had been partakers of his griefe. <hi>If I had it, I would gladly communicate it.</hi> Search and take notice of the leaſt. <hi>How ſhould I have any ſenſe? God denyeth the meanes.</hi> Doe you thinke <hi>ſenſe</hi> is a fruit of faith? <hi>Yes.</hi> At this ſeaſon,
+<note n="*" place="margin">For it was in the deepe of Winter, Decemb. 4. 1611.</note> al<g ref="char:EOLhyphen"/>though
+<pb n="76" facs="tcp:52289:56"/>though the husbandman hath ſowne much, yet he ſees nothing above grou<g ref="char:cmbAbbrStroke">̄</g>d. <hi>Applications doe not prove, hold your peace, my ſoule is broken.</hi> Then the <hi>promiſe</hi> is yours. I would gladly aske you one thing. <hi>Now you will aske twenty.</hi> Doe you ſeeke for <hi>grace</hi> in your ſoule? <hi>I cannot.</hi> How then can you know whether it be there or not? <hi>It is dead.</hi> The Lord in whoſe hands the diſpoſing there<g ref="char:EOLhyphen"/>of is, diſpoſeth it for <hi>your</hi> good and <hi>his</hi> glory. <hi>I thanke you.</hi> What do you
+<pb n="77" facs="tcp:52289:56"/>think of that place?
+<note place="margin">Joh. 20.23.</note> 
+               <hi>Whoſe<g ref="char:EOLhyphen"/>ſoever ſins ye remit, they are remitted unto them.</hi>— You know how far they may goe. <hi>The bargaine howſoe<g ref="char:EOLhyphen"/>ver is not now to be made betwixt God and you.</hi> Short<g ref="char:EOLhyphen"/>ly after came <hi>one</hi> whom he much eſteemed, <hi>Oh I love</hi> (ſaid he) <hi>your company for the grace that is in you;</hi> and much more to the ſame purpoſe. Suddenly after he breakes out into this ejaculation. <hi>Oh God reconcile me unto thee, that I may taſte one dram of grace, by which my miſerable ſoule
+<pb n="78" facs="tcp:52289:57"/>may receive comfort.</hi> One ſecretly willed that man to deſire him to repeat it againe. <hi>Doe not trouble me with repetitions.</hi> There be<g ref="char:EOLhyphen"/>ing a <hi>Sermon,</hi> he bad them about him to goe thither. After he called one, and asked him, <hi>Whether the preacher</hi> (being acquaint<g ref="char:EOLhyphen"/>ed with his courſe of preaching) <hi>did uſe his ac<g ref="char:EOLhyphen"/>cuſtomed diviſions.</hi> He told one, <hi>Satan had borne him in hand, and had deluded him.</hi> To whom the other an<g ref="char:EOLhyphen"/>ſwered: I hope that God will reſtore you as before
+<pb n="79" facs="tcp:52289:57"/>to glorifie him. <hi>No, no.</hi> Yea, were you weaker, I would hope notwith<g ref="char:EOLhyphen"/>ſtanding. <hi>I deſire nothing more.</hi> God be thanked you have laboured carefully for his glory. <hi>I would la<g ref="char:EOLhyphen"/>bour after another faſhion.</hi> In the night hee prayed, and repeated his <hi>Beliefe,</hi> and after, reſting a while, he called thoſe that wat<g ref="char:EOLhyphen"/>ched with him. <hi>Beare wit<g ref="char:EOLhyphen"/>neſſe that I ſaid not</hi> I be<g ref="char:EOLhyphen"/>lieve, <hi>but in generall, as de<g ref="char:EOLhyphen"/>ſiring I might believe.</hi> One comming to viſit him, asked him, how is it with
+<pb n="80" facs="tcp:52289:58"/>you? <hi>My minde was grie<g ref="char:EOLhyphen"/>vouſly poſſeſſed with ſundry diſtractions this night, but I feele my burthen now more light, I thanke God.</hi> Hee was put in minde of that, <hi>Oh thou afflicted and toſſed with tempeſts,
+<note place="margin">Iſai. 54.11. ver. 7, 8, 9.</note> and not com<g ref="char:EOLhyphen"/>forted, &amp;c. For a ſmall mo<g ref="char:EOLhyphen"/>ment have I forſaken thee, but with great mercies will I gather thee, &amp;c.</hi> He lifted up his eyes. Thereupon he being askd what the Lord did ſay to his ſoule, that had long refuſed comfort. <hi>Take heed. Be not too bold, looke to the foundation:</hi> and
+<pb n="81" facs="tcp:52289:58"/>then he prayed, <hi>Lord give me the comfort of thy delive<g ref="char:EOLhyphen"/>rance, and forgive me my fooliſhneſſe, that I may praiſe thy name.</hi> When he com<g ref="char:EOLhyphen"/>plained of his idle ſpee<g ref="char:EOLhyphen"/>ches, on the <hi>Sabbath day,</hi> One came to him, willing him to put his hand to a certaine note of debts. <hi>This is not a day for that,</hi> We will goe to the Sermon. <hi>God ſpeed you.</hi> Now you cannot goe to the Church to ſerve the Lord, I will pray him to come to you. <hi>Amen.</hi> He hardly ſuffered any to ſtay with him. At
+<pb n="82" facs="tcp:52289:59"/>evening one did reade ſomething of M. <hi>Downe<g ref="char:EOLhyphen"/>hams</hi> Warfare, and asked him, Doe you thinke it to be true? <hi>Yes.</hi> Therefore you muſt not truſt your ſenſe. <hi>What not ſuch as mine are? but I will not now diſ<g ref="char:EOLhyphen"/>pute.</hi> When they were helping of him up, and putting on his clothes, up<g ref="char:EOLhyphen"/>on ſome occaſion one ſaid unto him to this effect. <hi>A childe will not much grieve at the laying aſide of an olde coat, when he hath a new one made:</hi> When you ſhall put on <hi>that,</hi> there ſhall be
+<pb n="83" facs="tcp:52289:59"/>no longer nakedneſſe, the reſurrection will amend all. <hi>To thoſe that die in the Lord.</hi> No doubt you will die in the Lord, having lived in him: <hi>I have an<g ref="char:EOLhyphen"/>ſwered you before.</hi> But I would not believe you in that caſe. The next day a friend of his being to goe out of the towne, asked him, whether he would have any thing with him, for he was to leave him, and knew not whether he ſhould ever ſee him againe or no. <hi>Here</hi> (quoth he) <hi>looke to your calling,
+<pb n="84" facs="tcp:52289:60"/>that it be as well inward as outward.</hi> Hee counſelled another, <hi>To be ſtirring for the glory of God.</hi> One ſtand<g ref="char:EOLhyphen"/>ing by; he ſaid, <hi>I am think<g ref="char:EOLhyphen"/>ing how to get grace;</hi> Put your truſt in God. <hi>So I do.</hi> I omit to tell you, how with great patience hee continually ſubmitted himſelfe to adviſe in any meanes, for his good; In putting his temporall e<g ref="char:EOLhyphen"/>ſtate in order; he dealt mercifully with his poore <hi>debtors,</hi> yea, with ſome which were able enough to pay it. His worthy
+<pb n="85" facs="tcp:52289:60"/>
+               <hi>Patron</hi> (for ſo he often called him) whom for ho<g ref="char:EOLhyphen"/>nours ſake I name, Sir <hi>Robert Harlo,</hi> ſent his man to him, with ſome potable gold, together with a booke which a <hi>Doctor</hi> had made in praiſe thereof: comming to him, asking him how he did, <hi>Oh ſaid he, If it would pleaſe God that I might live with him!</hi> Anon after, he ſaid to one, <hi>I have been thinking of arguments, by which I might plead my cauſe with God, and I have found. But what if dying thus, I ſhould
+<pb n="86" facs="tcp:52289:61"/>be judged an Apoſtata.</hi> Man is not the judge at whoſe Tribunall you muſt ſtand or fall. There came in many of <hi>our</hi> chiefe <hi>fellows.</hi> One of them requeſted him to make <hi>confeſsion</hi> of his faith. <hi>Willingly, but I will thinke of it firſt:</hi> Mu<g ref="char:EOLhyphen"/>ſing a while, he ſaid, <hi>here, Truly my heart and ſoule have been far lead, and deep<g ref="char:EOLhyphen"/>ly troubled with tentations, and ſtings of conſcience, but I thanke God, they are eaſed in good meaſure. Wherefore I deſire that I may not bee branded with the note of a
+<pb n="87" facs="tcp:52289:61"/>forlorne reprobate, and caſt<g ref="char:EOLhyphen"/>away, ſuch queſtions, and op<g ref="char:EOLhyphen"/>poſitions, and all tending thereunto, I renounce. Now help me once, and put me in minde.</hi> What do you think of your former doctrine? <hi>Most true, in it have I lived, and in it will I die. I dealt hypocritically in it.</hi> Are you willing to die? Truly, I will tell you. <hi>My Patron who of late ſent me potable gold, hath taken order, that J might live with him in the Miniſtery, but J commit my ſelfe to the will of God.</hi> Doe you deſire the glory of
+<pb n="88" facs="tcp:52289:62"/>God, and the ſalvation of your brethren? <hi>What more?</hi> Doe you forgive all wrongs? <hi>Yes, and deſire that mine might be forgiven me. And now I thanke you Sir, I remember a thing wan<g ref="char:EOLhyphen"/>tonly done towards you,</hi> (pointing at one preſent) <hi>you ſent me a knife for a new yeares gift; and I <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yed two verſes to it, and ſent it back. I pray you pardon me it. If in any thing I have offended by my inconſiderate ſpeeches in the time of my tentations, I heartily, and humbly aske mercy and forgiveneſſe of
+<pb n="89" facs="tcp:52289:62"/>God for them all:</hi> You did then (ſaith one) relie upon inherent righteouſneſſe, as if you ſought in your ſelfe whereby you ſhould bee ſaved. Indeed, we know your converſation to bee unreproveable. <hi>No, I dare not affirme it. I truſt in no<g ref="char:EOLhyphen"/>thing but in the name of Je<g ref="char:EOLhyphen"/>ſus.</hi> Have you any cer<g ref="char:EOLhyphen"/>tainty in him? <hi>I would not he preſſed to a particular aſ<g ref="char:EOLhyphen"/>ſurance, in this grievous a<g ref="char:EOLhyphen"/>gony.</hi> We deſire you to in<g ref="char:EOLhyphen"/>forme <hi>them,</hi> that come to you, of your eſtate. <hi>My un<g ref="char:EOLhyphen"/>ability is great.</hi> They then
+<pb n="90" facs="tcp:52289:63"/>prayed, giving <hi>God</hi> thanks, that whereas before they had craved his mercy for his ſervant, he had heard them, and manifeſted to his glory, <hi>how he never for<g ref="char:EOLhyphen"/>ſaketh his:</hi> and beſought him, becauſe <hi>he</hi> knew the malice of his enemy, to perfect his good worke, and not ſuffer him to bee tempted above his ſtre<g ref="char:cmbAbbrStroke">̄</g>gth. Now <hi>Sir,</hi> we tell you one thing for your comfort, we never heard you ſpeak ought againſt <hi>God</hi> or man, throughout the time of your viſitation, but whol<g ref="char:EOLhyphen"/>ly
+<pb n="91" facs="tcp:52289:63"/>againſt your ſelfe. <hi>I have been bold thus to argue with God, if he hath ſhewed mercy to ſuch, and ſuch, why ſhould not I likewiſe have hope?</hi> Hee complained once, while he was viſi<g ref="char:EOLhyphen"/>ting the ſick (in which worke many poore ſoules found the ready merci<g ref="char:EOLhyphen"/>fulneſſe of his ſoule, and now feeles a great want) he lighted upon doubts, that he might more fully ſatisfie, when the like might be moved, he ſtu<g ref="char:EOLhyphen"/>died too earneſtly. One brought him a <hi>Note-booke</hi>
+               <pb n="92" facs="tcp:52289:64"/>which he had lent, he be<g ref="char:EOLhyphen"/>ing alwaies willing to communicate what hee had moſt private: <hi>Here is a booke</hi> (quoth he) <hi>of great paines.</hi> To a ſtranger, a worthy <hi>Gentleman,</hi> that came to viſite him, he ſaid, <hi>The Lord is mercifull to me, and I have cauſe of rejoycing.</hi> Afterward a reverend <hi>go<g ref="char:EOLhyphen"/>vernour</hi> came to him, to whom he complained of his ſin, and miſery. You looke not (ſaith he) for any thing in your ſelfe? <hi>No.</hi> You would amend if you had ſpace? <hi>Oh if I
+<pb n="93" facs="tcp:52289:64"/>had, certainly.</hi> Thinke on this, the <hi>Lord</hi> hath heard the ejaculations of your ſpirit in your infirmities. So he will now, If he will be glorified by your life, ſubmit your ſelfe to him. Let him chuſe for you. <hi>My ſaith is weake.</hi> All (you know) here, are but in part ſanctified. You deſire now notwithſtanding, to come to that which is perfect, for you may ſee how many have beene brought home to the Lord. Some have beene <hi>Idolaters:</hi> was not <hi>Ma<g ref="char:EOLhyphen"/>naſſeh</hi>
+               <pb n="94" facs="tcp:52289:65"/>ſuch a one?
+<note place="margin">2 Chro. 33.12, 13.</note> 
+               <hi>Yes.</hi> And behold <hi>Gods</hi> ſervants from the beginning of the <hi>Bible</hi> to the end, have ſlip<g ref="char:EOLhyphen"/>ped.
+<note place="margin">Gen. 19.33 35.</note> 
+               <hi>Lot</hi> had ſhrewd ſlips, but yet heare the teſtimo<g ref="char:EOLhyphen"/>ny of the Apoſtle concern<g ref="char:EOLhyphen"/>ing him.
+<note place="margin">2 Pet. 2.7, 8</note> 
+               <hi>He was juſt and righteous, &amp;c</hi> You have been weary and heavy la<g ref="char:EOLhyphen"/>den. <hi>Yes.</hi> For ſuch is the end of Chriſts comming. <hi>Come unto mee all that are weary,
+<note place="margin">Mat. 11.28.</note> &amp;c.</hi> Your deſire is a token of favour, for by how much the nearer we come to <hi>Chriſt,</hi> the more we thirſt. Thinke now
+<pb n="95" facs="tcp:52289:65"/>of his loving kindneſſe, <hi>he that began, he will finiſh,</hi>
+               <note place="margin">Phil. 1.6.</note> whom you have ſerved. <hi>I did.</hi> But with what <hi>vile imperfections?</hi> It is the greateſt perfection here, to ſee your imperfe<g ref="char:EOLhyphen"/>ctions. Shortly after came to him many young Gen<g ref="char:EOLhyphen"/>tlemen, to whom he ſaid. <hi>Live in Gods feare, that you may die in his favour, other<g ref="char:EOLhyphen"/>wiſe the Oxe and the Aſſe will condemne you. I ſpent my time fooliſhly, and prodigally.</hi> You have ſaid and re<g ref="char:EOLhyphen"/>membred <hi>that</hi> ſufficiently: remember alſo Chriſt,
+<pb n="96" facs="tcp:52289:66"/>
+               <hi>That is true,</hi> Chriſt <hi>is to bee remembred, and our ſins to be remembred alſo;</hi> Then he told us alſo that the uſe of <hi>reaſon</hi> did begin to faile him. The night follow<g ref="char:EOLhyphen"/>ing (which was Wedneſ<g ref="char:EOLhyphen"/>day at night) <hi>the Sun of Righteouſneſſe</hi> ſpread gra<g ref="char:EOLhyphen"/>cious beames at his ſet<g ref="char:EOLhyphen"/>ting,
+<note place="margin">Mal. 4.2.</note> which were com<g ref="char:EOLhyphen"/>fortable tokens of a glo<g ref="char:EOLhyphen"/>rious riſing. This laſt <hi>Swan-like-Song,</hi> as he ut<g ref="char:EOLhyphen"/>tered it, was penned by ſome as he uttered it: One comforting him by his <hi>bed-ſide,</hi> ſome two houres
+<pb n="97" facs="tcp:52289:66"/>or more before his death, he brake out into theſe ſpeeches. <hi>Quid de ſalute meaſentiam, expectatis ex<g ref="char:EOLhyphen"/>plicarem? uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> adeo indul<g ref="char:EOLhyphen"/>get Deus iis, quos ſemel di<g ref="char:EOLhyphen"/>lexerit, ut eos nunquam de<g ref="char:EOLhyphen"/>ſerat, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ideo in coelos me tranſiturum pro certo habeo; foeliciſsima ſunt ea vincula, in quibus me confixit Deus meus benigniſsimus.</hi> Doe you expect to heare from me, what I believe con<g ref="char:EOLhyphen"/>cerning my eternall ſalva<g ref="char:EOLhyphen"/>tion? Truly God doth for ever ſo endearedly ten<g ref="char:EOLhyphen"/>der, and is ſo unconcei<g ref="char:EOLhyphen"/>vably
+<pb n="98" facs="tcp:52289:67"/>mercifull to all thoſe whom he hath <hi>once</hi> loved, that he never final<g ref="char:EOLhyphen"/>ly doth forſake them; and therefore I am moſt aſſu<g ref="char:EOLhyphen"/>redly confident, that I ſhall depart from hence into heaven. Happy! thrice happy be thoſe cords of <hi>affliction</hi> in which my moſt gracious God hath tyed and bound me! One telling him, You have fought a good fight. <hi>Ex<g ref="char:EOLhyphen"/>pedit, expedit, ut contendam ad coelum, tollite, tollite, eri<g ref="char:EOLhyphen"/>pite, ut coelum adeam: De<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> indulget ingenuitati bono<g ref="char:EOLhyphen"/>rum.</hi>
+               <pb n="99" facs="tcp:52289:67"/>It behoves, it be<g ref="char:EOLhyphen"/>hoves me to ſtrive for hea<g ref="char:EOLhyphen"/>ven. Lift me up, help me out, rid me hence, that I may paſſe ſtraight to hea<g ref="char:EOLhyphen"/>ven. God favourably ac<g ref="char:EOLhyphen"/>cepts the endeavours of his Saints. Being put in minde of <hi>Gods</hi> mercy to<g ref="char:EOLhyphen"/>wards him, he anſwered, <hi>Oh the ſea is not ſo full of water, nor the Sun of light, as God of goodneſſe: His mercy is ten thouſand times more.</hi> Being likewiſe re<g ref="char:EOLhyphen"/>membred of <hi>Gods</hi> good<g ref="char:EOLhyphen"/>neſſe toward him, in fil<g ref="char:EOLhyphen"/>ling his ſoule with ſuch
+<pb n="100" facs="tcp:52289:68"/>comfort, after ſo great tentation; he ſaid, <hi>I doe</hi> (God be praiſed) <hi>feele ſuch comfort from that</hi> (what ſhall I call it?) <hi>Agony;</hi> ſaith one that ſtood by: <hi>Nay, that is too little, that if I had five thouſand worlds, I could not make ſatifaction for ſuch an iſſue.</hi> Being mo<g ref="char:EOLhyphen"/>ved to lift up his ſoule, in token of thankſgiving to his <hi>God,</hi> he uttered theſe words, <hi>What ſhould I ex<g ref="char:EOLhyphen"/>toll the magnificence of God, which is unſpeakable, and more than any ſoule can con<g ref="char:EOLhyphen"/>ceive? Nay rather, let us
+<pb n="101" facs="tcp:52289:68"/>with humble reverence ac<g ref="char:EOLhyphen"/>knowledge his great mercy. What great cauſe have I to magnifie the goodneſſe of God, that hath humbled,</hi> nay rather, <hi>that hath exalted ſuch a wretched miſcreant, and of ſo baſe condition, to an eſtate ſo glorious and ſtately? The Lord hath honoured me with his goodneſſe: I am ſure he hath provided a glo<g ref="char:EOLhyphen"/>rious Kingdome for me. The joy that I feele in my ſoule is incredible.</hi> Hee made like uſe of that which he al<g ref="char:EOLhyphen"/>waies before taught, tou<g ref="char:EOLhyphen"/>ching <hi>Juſtification by impu<g ref="char:EOLhyphen"/>ted
+<pb n="102" facs="tcp:52289:69"/>righteouſneſſe;</hi> and ap<g ref="char:EOLhyphen"/>pealing to the knowledge of ſome there preſent, what he continually maintained, <hi>in that</hi> (ſaith he) <hi>I ſtill remaine a Prote<g ref="char:EOLhyphen"/>ſtant.</hi> After three <hi>Chapters</hi> read to him, in <hi>Revel.</hi> 19.20, 21. and the eighth to the <hi>Romanes: Oh</hi> ſaid he, <hi>they be glorious comforts!</hi> Will you have any more read? <hi>Yes, A Pſalme if you pleaſe,</hi> and named the hun<g ref="char:EOLhyphen"/>dred three and twentieth. One beginning to reade it, he deſired that it might be ſung. One asking him,
+<pb n="103" facs="tcp:52289:69"/>will you ſing? <hi>Yea,</hi> ſaid he, <hi>as well as I can.</hi> The Pſalme being ſung, after<g ref="char:EOLhyphen"/>ward the ſeventeenth of S. <hi>John</hi> was read unto him. One comforting him in applying that in parti<g ref="char:EOLhyphen"/>cular, which <hi>Chriſt</hi> in ge<g ref="char:EOLhyphen"/>nerall performed, for the good of the faithfull, hee ſaid, <hi>Bleſſed be God!</hi> often. <hi>I am a thouſand times happy, to have ſuch felicity throwne upon me, a poore wretched miſcreant.</hi> After a little reſt, <hi>Lord Jeſus</hi> (ſaid he) <hi>into thy hands I commit my ſpirit. Lord receive my ſoul,
+<pb n="104" facs="tcp:52289:70"/>Lord lift thou up the light of thy countenance upon me, and be mercifull unto me.</hi> Then, very weake, he repeated the <hi>Lords</hi> prayer twice, and his <hi>Beliefe</hi> once, very plainly and diſtinctly, with a ſtrong voice, to the great admiration of the hearers. And ſo hee ſlept in the <hi>Lord. December</hi> 4. 1611.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:52289:70"/>
+            <p>IMPRIMATUR.</p>
+            <closer>
+               <signed>Johannes Hanſley,</signed>
+               <dateline>
+                  <date>Martii 14. 1640.</date>
+               </dateline>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
